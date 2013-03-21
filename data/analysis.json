@@ -1,0 +1,29 @@
+{
+    "analysis": [
+        {
+            "title": "API Trends I Am Watching",
+            "author": "Kin Lane",
+            "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/top-tech-trends.jpg",
+            "url": "http://www.apievangelist.com/2013/03/01/api-trends-im-watching/",
+            "date": "03/01/2013",
+            "link": "http://www.apievangelist.com/2013/03/01/api-trends-im-watching/"
+        },
+        {
+            "title": "Continue With My API Service As A Guest",
+            "author": "Kin Lane",
+            "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/foxweave-logo.png",
+            "url": "http://www.apievangelist.com/2013/02/28/continue-with-my-api-service-as-a-guest/",
+            "date": "02/28/2013",
+            "link": "http://www.apievangelist.com/2013/02/28/continue-with-my-api-service-as-a-guest/"
+        },
+        {
+            "title": "Merging API Automation and Interoperability Into API Reciprocity",
+            "author": "Kin Lane",
+            "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/reciprocity-trends.png",
+            "url": "http://www.apievangelist.com/2013/02/27/merging-api-automation-and-interoperability-into-api-reciprocity/",
+            "date": "02/27/2013",
+            "link": "http://www.apievangelist.com/2013/02/27/merging-api-automation-and-interoperability-into-api-reciprocity/"
+        }
+    ],
+    "published": "03/20/2013"
+}

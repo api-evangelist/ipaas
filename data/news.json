@@ -1,0 +1,114 @@
+{
+    "news": [
+        {
+            "title": "Message Bus' Email Delivery Platform Now Available for Integration Through Zapier's Vast Array of APIs",
+            "details": "  CORTE MADERA, CA--(Marketwire - Mar 11, 2013) -  Message Bus, the pioneer of cloud-based infrastructure for email, mobile and social messaging, today announced that the Message Bus Platform is available for integration via Zapiers drag and drop API integration, opening the door to countless email centric possibilities such as metrics for DevOps via DataDog, Leftronic, Geckoboard or triggered messages for GitHub issues, Zendesk tickets, Twitter mentions and more.  Were extremely excited about the communication integration possibilities represented by Message Bus, said Wade Foster, Co-founder and CEO at Zapier.  Email represents digital glue, connecting brands to their customers.  Message Bus has proven that to do email right takes skill and doing it right pays off in real-time analytics on customer engagement.  Zapier allows companies to combine that wealth of email data with data gathered from other sources using a unique drag and drop API integration.",
+            "item_date": "Mar 12 2013 16:06:11",
+            "display_item_date": "03-12-2013",
+            "url": "http://www.marketwire.com/press-release/Message-Bus-Email-Delivery-Platform-Now-Available-Integration-Through-Zapiers-Vast-1766526.htm",
+            "source": "www.marketwire.com",
+            "tags": ", API-Evangelist, API-Stack, Email, Reciprocity"
+        },
+        {
+            "title": "How to monitor your website behavior with push notifications to your mobile",
+            "details": "  Integration of mixpanel.  com and Pushover Hey, elastic.  io offers to receive push notifications on your mobile if something happens on your website, e.  g.  a new user has registered.",
+            "item_date": "Mar 01 2013 08:00:00",
+            "display_item_date": "03-01-2013",
+            "url": "http://blog.elastic.io/post/44287002741/how-to-monitor-your-website-behavior-with-push",
+            "source": "blog.elastic.io",
+            "tags": "API-Evangelist, API-Stack, Automation, Mixpanel, Mobile, Reciprocity"
+        },
+        {
+            "title": "“Fork me on Github”",
+            "details": "  We’ve just moved some of FoxWeave’s SaaS and Database connector implementations out to Github.  FoxWeave Component Dev Wiki\n \nWe’re hoping the combination of some reference connector implementations + wiki based developer documentation will help people create an publish FoxWeave connectors to more and more Cloud and On-Premise Apps/APIs and Databases.   Please let me know if you’re interested in building a connector for an App/DB, or know of someone that might be interested.  Please share this news with your friends on Twitter … Tweet \n We published two kinds of connector “modules”:\n Connectors for a number of Cloud Services (SaaS) – MailChimp, OnePageCRM and Zendesk.  Connectors for a number of Relational Databases – Oracle, PostgreSQL and MySQL.",
+            "item_date": "Feb 28 2013 08:00:00",
+            "display_item_date": "02-28-2013",
+            "url": "http://www.foxweave.com/fork-me-on-github/",
+            "source": "www.foxweave.com",
+            "tags": "API-Evangelist, API-Stack, Automation, Reciprocity"
+        },
+        {
+            "title": "Zapier – integrate apps with drag and drop",
+            "details": "  Zapier lets you make hundreds of different connections between different cloud services.  Right now there are over 160 different services Zapier can talk to.  Some of the popular ones being used with Xero are Wufoo, Google Docs, Paypal, Dropbox, Evernote, Zoho and Zendesk.  It is easy to create your own connections without any knowledge of the code or APIs behind it.  There are two main ways you might use Zapier and Xero:\nIf you are using a bunch of different cloud applications to run your business and want them to talk to each other but there is not always a direct connection – or maybe you want to customise exactly how that connection works – that is where Zapier comes in.",
+            "item_date": "Feb 04 2013 08:00:00",
+            "display_item_date": "02-04-2013",
+            "url": "http://blog.xero.com/2013/02/zapier-integrate-apps-with-drag-and-drop/",
+            "source": "blog.xero.com",
+            "tags": "API-Evangelist, API-Stack, Automation, integration, Interoperability, Reciprocity"
+        },
+        {
+            "title": "Elastic.io Introduces new simplified interface",
+            "details": "  Learning is an essential part of our daily work.  We learn from our customers, we learn from our work and we iterate quickly based on that.  We heard from our early users that our initial UI could be complicated to understand, so we decided to simplify it.  Here is how elastic.  io dashboard looks like now:\n \n  Plain and simple.",
+            "item_date": "Feb 01 2013 08:00:00",
+            "display_item_date": "02-01-2013",
+            "url": "http://blog.elastic.io/post/42015803142/introducing-our-new-simplified-interface",
+            "source": "blog.elastic.io",
+            "tags": "API-Evangelist, API-Stack, Automation, Interoperability, Reciprocity"
+        },
+        {
+            "title": "Temboo: APIs The Easy Way",
+            "details": "",
+            "item_date": "Jan 24 2013 08:00:00",
+            "display_item_date": "01-24-2013",
+            "url": "http://developers.blog.box.com/2013/01/24/temboo-apis-the-easy-way/",
+            "source": "developers.blog.box.com",
+            "tags": "API-Evangelist, API-Stack, Automation, Box, Document, Interoperability, Reciprocity, Temboo"
+        },
+        {
+            "title": "Beanstalk integrates with… Everything. Thanks to Zapier.",
+            "details": "  Posted \t\t\t\t\t\ton January 14, 2013 \t\t\t\t\t\tby  Chris Nagele \t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\tSolid integration with many services has been at the core of Beanstalk since we started.  Before we even launched out of beta over five years ago we had integration with Basecamp, Lighthouse and Fogbugz.  Over the years we’ve continued to add and improve our integrations to help make your development process smooth and connected.  Of course, keeping up with all of the integrations is hard work.  Today Zapier, which is like a match maker for web services, announced support for Beanstalk, making it easier than ever to integrate Beanstalk with almost 200 services instantly.",
+            "item_date": "Jan 14 2013 08:00:00",
+            "display_item_date": "01-14-2013",
+            "url": "http://blog.beanstalkapp.com/post/40525694793",
+            "source": "blog.beanstalkapp.com",
+            "tags": "API-Evangelist, API-Stack, Automation, integration, Reciprocity, Zapier"
+        },
+        {
+            "title": "Documentation | Ninja Blocks",
+            "details": "  Below you’ll find tutorials, code libraries and example code that will teach you how to use the Ninja Blocks platform, and reference documentation for all the moving parts.  The Ninja Blocks REST API is implemented as JSON over HTTP using the GET/POST/PUT/DELETE verbs.  Each resource, like Block, Device, User or Rule, has its own URL and is manipulated in isolation.  In other words, we’ve tried to make the API follow the REST principles as much as possible.  All API usage happens through Ninja Blocks applications, created by either Ninja owners for their own devices, or by 3rd Party Developers for use by the Ninja Blocks community.",
+            "item_date": "Dec 29 2012 17:51:05",
+            "display_item_date": "12-29-2012",
+            "url": "http://ninjablocks.com/docs/",
+            "source": "ninjablocks.com",
+            "tags": "Automation, home, Reciprocity"
+        },
+        {
+            "title": "Automate the Web Using IFTTT: Useful Recipes to Get You Started - TechSpot",
+            "details": "  A relatively new web service, IFTTT (If This Then That) lets you automate tasks between other popular services such as Dropbox, Twitter, Evernote, Facebook, Instapaper, and many others.  IFTTT works by telling it what task you want carried out, what will trigger this task, and it will put it into action for you.  Channels, triggers, actions, ingredients, recipes.  these are some of the terms used by IFTTT, and although it may seem complicated at first glance, its actually extremely easy to use.  Heres a practical example in case the whole concept doesnt ring a bell yet.",
+            "item_date": "Dec 19 2012 08:10:37",
+            "display_item_date": "12-19-2012",
+            "url": "http://www.techspot.com/guides/558-if-this-then-that/",
+            "source": "www.techspot.com",
+            "tags": "Automation, ifttt, Reciprocity"
+        },
+        {
+            "title": "How IFTTT is Changing the Way We Do Things on the Web",
+            "details": "  What if you could get an email alert the moment someone posts two tickets to the sold out concert you’re looking for on Craigslist?  Or an SMS each time your mom uploads a new photo to Flickr?  That’s the idea behind IFTTT, If This Then That, a service that lets you connect two different applications together based on specific parameters, which you define.  I have a deep fascination with design.  Not just aesthetic design, but really thinking about how people use products, and then what those products are able to do, Linden Tibbets, founder of IFTTT told Mashable.",
+            "item_date": "Dec 19 2012 08:10:18",
+            "display_item_date": "12-19-2012",
+            "url": "http://mashable.com/2012/12/04/ifttt/",
+            "source": "mashable.com",
+            "tags": "Automation, Reciprocity"
+        },
+        {
+            "title": "True data liberation with IFTTT and Google Drive",
+            "details": "  The web service IFTTT (If this, then that) accesses popular web applications via their APIs, and lets users create new actions based on changes.  For instance, actions such as “upload photos to Flickr when I add them to my Dropbox folder”, or “send me email when frost is forecast”.  I had been tempted to classify IFTTT as a merely an interesting toy for playing with social media.  Granted, it’s nice that I can archive all my tweets into an Evernote note, but so what?  However, IFTTT’s growth in features is showing it to be more than a bauble.",
+            "item_date": "Dec 19 2012 08:10:05",
+            "display_item_date": "12-19-2012",
+            "url": "http://radar.oreilly.com/2012/09/true-data-liberation.html",
+            "source": "radar.oreilly.com",
+            "tags": "Automation, Reciprocity"
+        },
+        {
+            "title": "7 Ways to Automate Your Life With ifttt",
+            "details": "  By JENNA WORTHAM Ever wish you could get a text message every time someone tagged you in a Facebook photo?  Or that you could record notes to yourself that are transcribed and sent to your e-mail account?  A nifty new Web service called ifttt (pronounced “lift” but minus the l) offers a way to automate tasks involving a bevy of services like Instagram, Craiglist, Dropbox and Instapaper, among others.  The basic premise of the service is simple.  Users simply connect two services together to respond to triggers, under the construct that if this happens, then do that.",
+            "item_date": "Dec 19 2012 08:09:45",
+            "display_item_date": "12-19-2012",
+            "url": "http://gadgetwise.blogs.nytimes.com/2011/09/23/7-ways-to-automate-your-life-with-ifttt/",
+            "source": "gadgetwise.blogs.nytimes.com",
+            "tags": "Automation, Reciprocity"
+        }
+    ],
+    "published": "03/20/2013",
+    "newscount": 12
+}

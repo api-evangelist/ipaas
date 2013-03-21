@@ -1,0 +1,204 @@
+{
+    "stack": [
+        {
+            "ID": "111",
+            "name": "AutomateIt",
+            "details": "<p>AutomateIt is an open source tool for automating the setup and maintenance of servers, applications and their dependencies, providing a way to manage files, packages, services, networks, accounts, roles, templates and more. </p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/automateit-logo.png",
+            "website": "http://automateit.org/",
+            "blog": "",
+            "blogrss": "",
+            "twitter": ""
+        },
+        {
+            "ID": "102",
+            "name": "Cloudwork",
+            "details": "<p><span>Cloudwork is a service that allows users to automate tasks between Google Apps, Salesforce, Evernote, Zoho, Twitter, Freshbooks, MailChimp, Zendesk, Dropbox, WordPress and others.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/cloudwork-logo.png",
+            "website": "http://cloudwork.com/",
+            "blog": "http://blog.cloudwork.com/",
+            "blogrss": "http://blog.cloudwork.com/feed/",
+            "twitter": "https://twitter.com/cloudwork"
+        },
+        {
+            "ID": "113",
+            "name": "CloverETL",
+            "details": "<p><span>CloverETL is open source data integration platform based on Java. It can be used for data migration, data cleansing and other data transformation tasks.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/cloveretl-logo.png",
+            "website": "http://www.cloveretl.com/",
+            "blog": "http://blog.cloveretl.com/",
+            "blogrss": "http://blog.cloveretl.com/feed",
+            "twitter": ""
+        },
+        {
+            "ID": "40",
+            "name": "Elastic.io",
+            "details": "<p><span>elastic.io helps you to automate routine operations and connect multiple cloud APIs.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/elasticio_logo.png",
+            "website": "http://elastic.io/",
+            "blog": "http://blog.elastic.io/",
+            "blogrss": "http://blog.elastic.io/rss",
+            "twitter": "https://twitter.com/elasticio"
+        },
+        {
+            "ID": "107",
+            "name": "Factor.io",
+            "details": "<p><strong>Factor.io</strong><span> is a service which enables you to connect best-of-breed tools you already use in your development workflow with a simple if-this-then-that interface.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/factor-io-logo.png",
+            "website": "http://factor.io/",
+            "blog": "http://blog.factor.io/",
+            "blogrss": "",
+            "twitter": "https://twitter.com/factor_io"
+        },
+        {
+            "ID": "94",
+            "name": "Foxweave",
+            "details": "<p>FoxWeave is a Cloud-Based Data Integration Platform that lets you easily migrate and synchronize data across all your Cloud and On-Premise applications and databases, without having to write any code.</p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/foxweave-logo.png",
+            "website": "http://www.foxweave.com/",
+            "blog": "http://www.foxweave.com/blog/",
+            "blogrss": "http://www.foxweave.com/feed/",
+            "twitter": "https://twitter.com/foxweave"
+        },
+        {
+            "ID": "39",
+            "name": "If This Then That (IFTTT)",
+            "details": "<p>IFTTT is a service that enables customers to connect channels (i.e. Facebook, Evernote, Weather, Dropbox, etc.) with personally created or publicly shared Recipes.</p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/IFTTT-logo.jpeg",
+            "website": "https://ifttt.com/",
+            "blog": "http://blog.ifttt.com/",
+            "blogrss": "",
+            "twitter": "https://twitter.com/IFTTT"
+        },
+        {
+            "ID": "109",
+            "name": "itDuzzit",
+            "details": "<p><span>itDuzzit is a cloud integration platform like no other; simple enough for non-technical users, yet powerful enough to support the most complex integration.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/itduzzit-logo.png",
+            "website": "http://cloud.itduzzit.com/",
+            "blog": "http://www.itduzzit.com/home/blog/",
+            "blogrss": "http://feeds.feedburner.com/itduzzit",
+            "twitter": "https://twitter.com/itDuzzit"
+        },
+        {
+            "ID": "103",
+            "name": "MashableLogic",
+            "details": "<p><span>MashableLogic is a mashup development platform that provides a system for leveraging API's by turning them into re-usable components that can be combined to compose software solutions.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashablelogic-logo.jpeg",
+            "website": "http://www.mashablelogic.com/",
+            "blog": "",
+            "blogrss": "",
+            "twitter": "https://twitter.com/WeWiredWeb"
+        },
+        {
+            "ID": "115",
+            "name": "Pentaho - Kettle",
+            "details": "<p><span>Delivers powerful Extraction, Transformation and Loading (ETL) capabilities using an innovative, metadata-driven approach. With an intuitive, graphical, drag and drop design environment, and a proven, scalable, standards-based architecture, Pentaho Data Integration is increasingly the choice for organizations over traditional, proprietary ETL or data integration tools.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/pentaho-logo.png",
+            "website": "http://kettle.pentaho.com/",
+            "blog": "",
+            "blogrss": "",
+            "twitter": ""
+        },
+        {
+            "ID": "124",
+            "name": "RITC",
+            "details": "<p><span>Easily integrate & automate cloud products and services, build apps, and create workflows using the Ritc API, allowing you to add functionality to your cloud applications and services.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Ritc-logo.png",
+            "website": "http://getritc.com/",
+            "blog": "",
+            "blogrss": "",
+            "twitter": ""
+        },
+        {
+            "ID": "88",
+            "name": "Rules.io",
+            "details": "<p>Overwhelmed with too much data and too many metrics?  The rules.io team drills into your data with you, giving you a concrete idea of which users you should talk to and how to engage them.At the core of rules.io is a rules and segmentation engine which captures user-centric data such as usage and behavior, purchases, and technical problems, and allows you to act on this information in real-time or via triggered automation.</p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/rules-io-logo.jpeg",
+            "website": "https://www.rules.io/",
+            "blog": "http://thisblog.rules.io/",
+            "blogrss": "http://thisblog.rules.io/atom.xml",
+            "twitter": "https://twitter.com/rules_io"
+        },
+        {
+            "ID": "108",
+            "name": "SnapLogic",
+            "details": "<p><span><span>SnapLogic's modern web architecture, \"containerized\" Snaps, and thriving SnapStore ecosystem make it the only practical way to continually connect your company to the burgeoning number and diversity of data sources and cloud applications. </span></span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/snaplogic-logo.png",
+            "website": "http://www.snaplogic.com/",
+            "blog": "http://blog.snaplogic.com/",
+            "blogrss": "view-source:http://blog.snaplogic.com/?feed=rss2",
+            "twitter": "https://twitter.com/snaplogic"
+        },
+        {
+            "ID": "110",
+            "name": "SortMyBox",
+            "details": "<p>Like e-mail filters, for your files in the cloud. SortMyBox is a magic folder that moves files to folders based on your rules.</p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/sortmybox-logo.png",
+            "website": "http://www.sortmybox.com/",
+            "blog": "http://blog.sortmybox.com/",
+            "blogrss": "http://blog.sortmybox.com/rss",
+            "twitter": "http://twitter.com/sortmybox"
+        },
+        {
+            "ID": "114",
+            "name": "Talend",
+            "details": "<p><span>Talend offers open source middleware solutions that address big data integration, data management and application integration needs for businesses of all sizes.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/talend-logo.png",
+            "website": "http://www.talend.com/",
+            "blog": "http://www.talend.com/blog",
+            "blogrss": "http://feeds.feedburner.com/Talend",
+            "twitter": "https://twitter.com/talend"
+        },
+        {
+            "ID": "57",
+            "name": "Temboo",
+            "details": "<p><a href=\"http://temboo.com/\">Temboo</a><span> has built a Library with 1500+ detail-documented, ready-to-run developer processes called Choreos for 100+ APIs and more. We offer flexible and smart SDKs for first-time to big-time developers (and everyone in between). Build well-crafted, mightier apps in less time. Code with the cloud!</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Temboo-Logo.png",
+            "website": "https://www.temboo.com/",
+            "blog": "http://temboo.tumblr.com/",
+            "blogrss": "http://temboo.tumblr.com/rss",
+            "twitter": "https://twitter.com/temboo/"
+        },
+        {
+            "ID": "104",
+            "name": "Wappwolf",
+            "details": "<p><span>Wappwolf is focused on deconstructing the barriers of the Cloud, by connecting your Evernote, Facebook, Flickr, and other web services / apps to Dropbox, allowing users to drag & drop files into a predefined folder on Dropbox and automatically convert and sync to your favorite places.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/wappwolf-logo.png",
+            "website": "http://wappwolf.com/dropboxautomator/",
+            "blog": "http://blog.wappwolf.com/",
+            "blogrss": "http://blog.wappwolf.com/?feed=rss2",
+            "twitter": "http://twitter.com/wappwolf"
+        },
+        {
+            "ID": "105",
+            "name": "WeWiredWeb",
+            "details": "<p><span>We-Wired Web enables users to define automated tasks using over 50 popular web services using APIs that execute periodically.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/We-Wired-Web-Logo.png",
+            "website": "http://www.wewiredweb.com/",
+            "blog": "",
+            "blogrss": "",
+            "twitter": ""
+        },
+        {
+            "ID": "106",
+            "name": "Yahoo Pipes",
+            "details": "<p><span>Pipes is a composition tool to aggregate, manipulate, and mashup content from around the web. Like Unix pipes, simple commands can be combined together to create output that meets your needs.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/yahoo-pipes-logo.jpg",
+            "website": "http://pipes.yahoo.com/pipes/",
+            "blog": "http://blog.pipes.yahoo.com/",
+            "blogrss": "http://blog.pipes.yahoo.net/feed/",
+            "twitter": "http://twitter.com/yahoopipes/"
+        },
+        {
+            "ID": "38",
+            "name": "Zapier",
+            "details": "<p><span>Zapier lets SaaS users create integrations that push data between hundreds of best-in-breed web applications without having to write any code or wrangle APIs.</span><span><br /></span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/zapier-logo.png",
+            "website": "https://zapier.com",
+            "blog": "https://zapier.com/blog/",
+            "blogrss": "",
+            "twitter": "https://twitter.com/zapier"
+        }
+    ]
+}
