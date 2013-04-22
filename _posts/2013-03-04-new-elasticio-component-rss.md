@@ -1,0 +1,11 @@
+---
+layout: post
+title: New Elastic.io Component : RSS
+url: http://blog.elastic.io/post/44573906764/new-component-rss/047e5e00=
+source: http://blog.elastic.io/post/44573906764/new-component-rss/047e5e00=
+domain: blog.elastic.io
+---
+{% include JB/setup %}<p>RSS…is a family of web feed formats used to publish frequently updated works—such as blog entries, news headlines, audio, and video—in a standardized format.An RSS document (which is called a “feed”, “web feed”,or “channel”) includes full or summarized text, plus metadata such as publishing dates and authorship.RSS feeds can be found everywhere, from the Blog you are reading, from your Youtube channel, and many others, and now you can automate it with elastic.io
+ We are using allot of Apple products at elastic.io and I’m the long-time reader of MacRumors.</p>
+<center><p><a href="http://blog.elastic.io/post/44573906764/new-component-rss/047e5e00=" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
