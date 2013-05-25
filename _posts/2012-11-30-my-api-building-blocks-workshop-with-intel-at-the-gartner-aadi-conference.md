@@ -1,11 +1,4 @@
----
-layout: post
-title: My API Building Blocks Workshop With Intel at the Gartner AADI Conference
-url: http://www.apievangelist.com/2012/11/30/my-api-building-blocks-workshop-with-intel-at-the-gartner-aadi-conference/
-source: http://www.apievangelist.com/2012/11/30/my-api-building-blocks-workshop-with-intel-at-the-gartner-aadi-conference/
-domain: www.apievangelist.com
----
-{% include JB/setup %}<p>I conducted two workshops this week in partnership with Intel at the Gartner AADI Conference in Las Vegas.Working from my Building Blocks of a Successful API material, I put together a 30 minute workshop that I conducted at 12 and 6PM on Tuesday.My workshop started with the history of APIs, then walked through API building blocks in 3 areas:
+<p>I conducted two workshops this week in partnership with Intel at the Gartner AADI Conference in Las Vegas.Working from my Building Blocks of a Successful API material, I put together a 30 minute workshop that I conducted at 12 and 6PM on Tuesday.My workshop started with the history of APIs, then walked through API building blocks in 3 areas:
 
 API Design&nbsp;
 API Development&nbsp;

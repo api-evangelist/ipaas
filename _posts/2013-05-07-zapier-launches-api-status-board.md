@@ -1,0 +1,3 @@
+<p>Zapier automates tasks between online services and APIs.Zapier provides seamless integration between almost 200 different web services.Additionally, Zapier just launched a new API Status Board.The API Status Board helps developers uncover downtime for any of the APIs Zapier integrates.Zapier co-founder and CEO, Wade Foster, told PW: “[W]e typically catch outages even before vendors are reporting them.</p>
+<center><p><a href="http://blog.programmableweb.com/2013/05/07/zapier-launches-api-status-board/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

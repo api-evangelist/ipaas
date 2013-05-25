@@ -1,11 +1,4 @@
----
-layout: post
-title: Updated Zapier Integration
-url: http://www.activecampaign.com/blog/updated-zapier-integration/
-source: http://www.activecampaign.com/blog/updated-zapier-integration/
-domain: www.activecampaign.com
----
-{% include JB/setup %}<p>We’ve improved our integration with Zapier to include many more triggers, another action, and support for custom fields.This allows you to extract more data from ActiveCampaign to push to other applications, as well as perform more actions (such as adding a subscriber or creating a campaign) using data pulled from other applications.You can now have Zapier capture the following events coming from ActiveCampaign:
+<p>We’ve improved our integration with Zapier to include many more triggers, another action, and support for custom fields.This allows you to extract more data from ActiveCampaign to push to other applications, as well as perform more actions (such as adding a subscriber or creating a campaign) using data pulled from other applications.You can now have Zapier capture the following events coming from ActiveCampaign:
  New Subscriber Created
  New Subscriber Update
  New Campaign Starts Sending

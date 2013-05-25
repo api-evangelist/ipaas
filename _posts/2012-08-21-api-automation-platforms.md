@@ -1,11 +1,4 @@
----
-layout: post
-title: API Automation Platforms
-url: http://www.apievangelist.com/2012/08/21/api-automation-platforms/
-source: http://www.apievangelist.com/2012/08/21/api-automation-platforms/
-domain: www.apievangelist.com
----
-{% include JB/setup %}<p>I&rsquo;ve been doing lots of research into the future of web APIs lately, and one area that is definitely gaining more traction is the ability to automate tasks, by defining triggers and actions on top of web APIs.If you&rsquo;ve heard about API automation, it&rsquo;s probably due to the attention If This Then That (IFTTT) and Zapier have been getting.While these are two of the most popular platforms currently, I wanted to dive in and understand the entire landscape.Currently I&rsquo;ve found 8 API automation platforms:
+<p>I&rsquo;ve been doing lots of research into the future of web APIs lately, and one area that is definitely gaining more traction is the ability to automate tasks, by defining triggers and actions on top of web APIs.If you&rsquo;ve heard about API automation, it&rsquo;s probably due to the attention If This Then That (IFTTT) and Zapier have been getting.While these are two of the most popular platforms currently, I wanted to dive in and understand the entire landscape.Currently I&rsquo;ve found 8 API automation platforms:
 
 
 

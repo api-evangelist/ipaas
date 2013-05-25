@@ -1,11 +1,4 @@
----
-layout: post
-title: What is the Future of Web APIs?
-url: http://www.apievangelist.com/2012/07/27/what-is-the-future-of-web-apis/
-source: http://www.apievangelist.com/2012/07/27/what-is-the-future-of-web-apis/
-domain: www.apievangelist.com
----
-{% include JB/setup %}<p>Photo by&nbsp;Nicholas_T
+<p>Photo by&nbsp;Nicholas_T
 
 
 

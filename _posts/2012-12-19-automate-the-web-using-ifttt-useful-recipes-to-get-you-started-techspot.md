@@ -1,10 +1,3 @@
----
-layout: post
-title: Automate the Web Using IFTTT: Useful Recipes to Get You Started - TechSpot
-url: http://www.techspot.com/guides/558-if-this-then-that/
-source: http://www.techspot.com/guides/558-if-this-then-that/
-domain: www.techspot.com
----
-{% include JB/setup %}<p>A relatively new web service, IFTTT (If This Then That) lets you automate tasks between other popular services such as Dropbox, Twitter, Evernote, Facebook, Instapaper, and many others.IFTTT works by telling it what task you want carried out, what will trigger this task, and it will put it into action for you.Channels, triggers, actions, ingredients, recipes.these are some of the terms used by IFTTT, and although it may seem complicated at first glance, its actually extremely easy to use.Heres a practical example in case the whole concept doesnt ring a bell yet.</p>
+<p>A relatively new web service, IFTTT (If This Then That) lets you automate tasks between other popular services such as Dropbox, Twitter, Evernote, Facebook, Instapaper, and many others.IFTTT works by telling it what task you want carried out, what will trigger this task, and it will put it into action for you.Channels, triggers, actions, ingredients, recipes.these are some of the terms used by IFTTT, and although it may seem complicated at first glance, its actually extremely easy to use.Heres a practical example in case the whole concept doesnt ring a bell yet.</p>
 <center><p><a href="http://www.techspot.com/guides/558-if-this-then-that/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

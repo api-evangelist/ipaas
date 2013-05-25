@@ -1,11 +1,4 @@
----
-layout: post
-title: “Fork me on Github”
-url: http://www.foxweave.com/fork-me-on-github/
-source: http://www.foxweave.com/fork-me-on-github/
-domain: www.foxweave.com
----
-{% include JB/setup %}<p>We’ve just moved some of FoxWeave’s SaaS and Database connector implementations out to Github.FoxWeave Component Dev Wiki
+<p>We’ve just moved some of FoxWeave’s SaaS and Database connector implementations out to Github.FoxWeave Component Dev Wiki
  
 We’re hoping the combination of some reference connector implementations + wiki based developer documentation will help people create an publish FoxWeave connectors to more and more Cloud and On-Premise Apps/APIs and Databases. Please let me know if you’re interested in building a connector for an App/DB, or know of someone that might be interested.Please share this news with your friends on Twitter … Tweet 
  We published two kinds of connector “modules”:
