@@ -1,0 +1,11 @@
+---
+layout: post
+title: SaaS Automation: Progressing To The Next Frontier
+url: http://blog.cloudwork.com/saas-automation-progressing-to-the-next-frontier/
+source: http://blog.cloudwork.com/saas-automation-progressing-to-the-next-frontier/
+domain: blog.cloudwork.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8138_blog_cloudwork_com.png
+---
+{% include JB/setup %}<p>SaaS automation is becoming a necessity for any business that is looking to maintain productivity gains from using cloud-based business tools, says our CEO, Christophe Primault.According to entrepreneur and successful SaaS founder Jason Lemkin, getting apps to talk to each other is “a huge next frontier”.With at least 100 new business cloud apps being added to the market each month, any business making use of Software-as-a-Service can quickly end up repeating data entry in multiple business tools.It is a headache that mid-size companies are currently facing, with small business on a path to growth also being hit.“We are still doing way, way, way too much data entry by valuable, non-clerical employees”, Lemkin posted to Q&amp;A expert site Quora in February.</p>
+<center><p><a href="http://blog.cloudwork.com/saas-automation-progressing-to-the-next-frontier/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

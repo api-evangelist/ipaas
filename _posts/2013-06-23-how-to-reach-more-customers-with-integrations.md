@@ -1,0 +1,11 @@
+---
+layout: post
+title: How to reach more customers with integrations
+url: http://blog.elastic.io/post/53678699413/how-to-reach-more-customers-with-integrations
+source: http://blog.elastic.io/post/53678699413/how-to-reach-more-customers-with-integrations
+domain: blog.elastic.io
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/10128_blog_elastic_io.png
+---
+{% include JB/setup %}<p>elastic.io gives present to you: We help you to increase the number of your end customers.Here is how-to: Integrations become a powerful marketing message if you can show to your end customers how easily your product integrates in business processes with just one click and how smoothly data migrations work.This is exactly what elastic.io integration platform offers to you.</p>
+<center><p><a href="http://blog.elastic.io/post/53678699413/how-to-reach-more-customers-with-integrations" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

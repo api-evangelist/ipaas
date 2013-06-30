@@ -1,0 +1,11 @@
+---
+layout: post
+title: Your Automatic Basecamp Dropbox Backup: Step By Step
+url: http://blog.cloudwork.com/your-automatic-basecamp-dropbox-backup-step-by-step/
+source: http://blog.cloudwork.com/your-automatic-basecamp-dropbox-backup-step-by-step/
+domain: blog.cloudwork.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7626_blog_cloudwork_com.png
+---
+{% include JB/setup %}<p>Basecamp is a great project management tool for small teams.Backing up your Basecamp project data is easy with the in-built data export tool, but what about all your project files and research?How do you save all the attachments you have added to Basecamp without manually copying them one by one into your cloud data storage?Storing Client Research At All Times We know many professional services and small consultancy teams who use Bascamp.A legal consultancy team finds it particularly easy for associates and paralegals to use when assisting in client cases.</p>
+<center><p><a href="http://blog.cloudwork.com/your-automatic-basecamp-dropbox-backup-step-by-step/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

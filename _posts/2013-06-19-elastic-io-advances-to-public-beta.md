@@ -1,0 +1,11 @@
+---
+layout: post
+title: elastic io advances to Public beta
+url: http://blog.elastic.io/post/53381441122/elastic-io-advances-to-public-beta
+source: http://blog.elastic.io/post/53381441122/elastic-io-advances-to-public-beta
+domain: blog.elastic.io
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/10044_blog_elastic_io.png
+---
+{% include JB/setup %}<p>Public beta: Already a few weeks back elastic.io advanced our integration platform to public beta in a soft launch - now new registrants immediately progress to the designer dashboard.A big thank you to all private beta users that helped us to progress to this stage with tons of good feedback and advice.Whilst we are still learning where to further improve the integration platform and are constantly adding features, we are confident the integration platform will already now provide a great experience to tackling SaaS integration problems in an unseen convenient way.Please keep on sending us your ideas and impressions!</p>
+<center><p><a href="http://blog.elastic.io/post/53381441122/elastic-io-advances-to-public-beta" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

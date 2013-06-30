@@ -1,0 +1,11 @@
+---
+layout: post
+title: “Fork me on Github”
+url: http://www.foxweave.com/fork-me-on-github/
+source: http://www.foxweave.com/fork-me-on-github/
+domain: www.foxweave.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>We’ve just moved some of FoxWeave’s SaaS and Database connector implementations out to Github.FoxWeave Component Dev Wiki We’re hoping the combination of some reference connector implementations + wiki based developer documentation will help people create an publish FoxWeave connectors to more and more Cloud and On-Premise Apps/APIs and Databases. Please let me know if you’re interested in building a connector for an App/DB, or know of someone that might be interested.Please share this news with your friends on Twitter … Tweet We published two kinds of connector “modules”: Connectors for a number of Cloud Services (SaaS) – MailChimp, OnePageCRM and Zendesk.Connectors for a number of Relational Databases – Oracle, PostgreSQL and MySQL.</p>
+<center><p><a href="http://www.foxweave.com/fork-me-on-github/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
