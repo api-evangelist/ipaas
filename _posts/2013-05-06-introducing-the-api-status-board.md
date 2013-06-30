@@ -1,3 +1,0 @@
-<p>Zapier connects with a lot of services you rely on via APIs, almost ~200 at last count.Every month were doing hundreds of millions of API requests on your behalf to those APIs, so its important we can let you know when there is downtime.That means we have to employ some pretty hardcore monitoring for each and every API.Before today, that monitoring was only available internally at Zapier.Not anymore: all that data is now available on our API Status Board.</p>
-<center><p><a href="https://zapier.com/blog/introducing-api-status-board/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
