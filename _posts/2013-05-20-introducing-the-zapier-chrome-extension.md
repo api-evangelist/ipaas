@@ -1,11 +1,0 @@
----
-layout: post
-title: Introducing the Zapier Chrome Extension
-url: https://zapier.com/blog/introducing-the-zapier-chrome-extension/
-source: https://zapier.com/blog/introducing-the-zapier-chrome-extension/
-domain: zapier.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8997_zapier_com.png
----
-{% include JB/setup %}<p>Have you been trying to keep better track of when your Zaps are running?If so, then youll be excited about the new Google Chrome extension which launched today.The Chrome extension does two things: Displays an activity stream of all your recently run tasks so you can keep up-to-date on all your running Zaps.Recommends new Zaps based on the web applications you are already using.If this sounds good, install the extension in the Chrome Marketplace today and youll get 100 extra tasks each month for free.</p>
-<center><p><a href="https://zapier.com/blog/introducing-the-zapier-chrome-extension/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

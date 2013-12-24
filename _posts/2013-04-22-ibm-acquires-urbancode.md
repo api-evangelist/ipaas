@@ -1,11 +1,0 @@
----
-layout: post
-title: IBM acquires UrbanCode
-url: http://www.zdnet.com/ibm-acquires-urbancode-7000014343/
-source: http://www.zdnet.com/ibm-acquires-urbancode-7000014343/
-domain: www.zdnet.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7861_www_zdnet_com.png
----
-{% include JB/setup %}<p>IBM announced this morning that it has acquired UrbanCode, a software delivery automation company based in Cleveland, Ohio.The purchase price was not disclosed.The acquisition ticks all the boxes for Big Blue: mobile, social, big data, cloud.But the biggest value of all is in the companys ability to target software development bottlenecks and accelerate time-to-market for businesses, from months to minutes, the company proudly claims.Fail fast, as the talking heads in Silicon Valley often shout.</p>
-<center><p><a href="http://www.zdnet.com/ibm-acquires-urbancode-7000014343/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
