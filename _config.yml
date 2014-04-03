@@ -1,5 +1,7 @@
 title : Reciprocity
 
+markdown: kramdown
+
 safe: true
 lsi: false
 pygments: true
