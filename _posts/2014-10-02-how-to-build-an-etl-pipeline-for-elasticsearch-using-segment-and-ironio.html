@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'How to Build an ETL Pipeline for ElasticSearch Using Segment and Iron.io'
+url: http://blog.iron.io/2014/10/how-to-build-etl-pipeline-for.html
+source: http://blog.iron.io/2014/10/how-to-build-etl-pipeline-for.html
+domain: blog.iron.io
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-iron-io201410how-to-build-etl-pipeline-for-html.png
+---
+
+<p>ETL is a common pattern in the big data world for collecting and consolidating data for storage and/or analysis.While it may seem unnecessary to follow this many steps as the tools around Hadoop continue to evolve, forming a cohesive pipeline is still the most reliable way to handle the sheer volume of data.The extract process deals with the different systems and formats, the transform process allows you to break up the work and run tasks in parallel, and the load process ensures delivery is successful.Given the challenges and potential points of failure that could happen in any one of these steps, trying to shorten the effort and consolidate into one process or toolkit can lead to a big (data) mess.This ETL pattern is a common use case with many of our customers, who will first use IronMQ to reliably extract data from a variety of sources, and then use IronWorker to perform custom data transformations in parallel before loading the events to other locations.</p>
+
