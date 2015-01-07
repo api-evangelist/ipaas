@@ -3,30 +3,9 @@ layout: page
 title: API Reciprocity
 ---
 
-<h1>API Reciprocity</h1>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/reciprocity-trends.png" width="250" align="right" style="padding: 15px;" /></p>
 <p>As we move more of our personal and business lives into the clouds, we require more automation of tasks that keep our disparate worlds connected.</p>
 <p>We don't just needs the individual silos we've put information into to be synced--we need the transfer or information and resources automated.</p>
 <p>When a competitor updates their partner page, we need it saved in Evernote.  When our blog is updated we need it synced to Blogger or Tumblr.</p>
 <p>API automation allows for the flow of information between the common platforms we depend on for our daily operations.  Many of these common platforms have RSS and APIs allowing a new breed of reciprocity platforms to emerge.</p>
 <p>In this section i will be tracking news and companies that are doing interesting things around API automation and interoperability, while also sharing blog analysis I provide on reciprocity platforms and approaches.</p> 
-
-<h2>Latest...</h2>            
-{% for post in site.posts limit:3 %}
-<div class="post">
-    
-    <p><a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}" style="color:#000;"><h4><strong>{{ post.title }}</strong></h4></a> (<i><strong><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }}</span></strong></i>)
-    <p><a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="175" align="left" style="padding: 15px;" /></a></p>
-    <p>{{ post.content | strip_html | truncatewords: 100 }}...<a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-weight: bold;">read more</a>.</p>
-    <br />
-    <hr />     
-   
-</div> 
-{% endfor %} 
-
-<!-- 3scale -->
-<p align="center">
-    <a href="http://bit.ly/13esk6Q" target="_blank" title="APIs From 3Scale">
-        <img src="https://s3.amazonaws.com/kinlane-productions/api-service-providers/3Scale/empowered-by-3scale.png" width="300" style="padding-bottom: 15px;" />
-    </a>        
-</p> 
