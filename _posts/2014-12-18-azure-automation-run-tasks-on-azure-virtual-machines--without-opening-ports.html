@@ -1,12 +1,8 @@
 ---
 layout: post
-title: 'Azure Automation: Run tasks on Azure Virtual Machines – without opening ports'
-url: http://azure.microsoft.com/blog/2014/12/18/azure-automation-run-tasks-on-azure-virtual-machines-without-opening-ports/
+title: 'Azure Automation: Run tasks on Azure Virtual Machines &acirc; without opening ports'
 source: http://azure.microsoft.com/blog/2014/12/18/azure-automation-run-tasks-on-azure-virtual-machines-without-opening-ports/
 domain: azure.microsoft.com
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comblog20141218azure-automation-run-tasks-on-azure-virtual-machines-without-opening-ports.png
 ---
 
-<p>One great thing about Azure Automation is its ability to interact with your Azure resources using the included Azure PowerShell module.Querying, adding, changing and deleting resources is never more than a few lines of PowerShell-in-a-Runbook away.One of the most common things we as IT Pros will want to do is run tasks on our Azure virtual machines.By default, whenever an Azure VM is provisioned an endpoint is defined for allowing PowerShell access from remote clients, as shown below:
-Previously we have provided a sample runbook which enabled you to run a PowerShell command on an Azure VM from Azure Automation.This sample relied on the Connect-AzureVM runbook, which relied on the use of a credential to remotely access the Azure VM via WinRM PowerShell Remoting.</p>
-
