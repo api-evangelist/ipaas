@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "FOYD4116123wuxhbeimpbCR1Fc4jk7sa7H45WKoMmoUAG8vsuecycSAMndZStEmPiMtVbhzWSrwPGyMdi0mCsixnIA117117",
+		"item_date": "2016-08-30 10:37:07",
+		"title": "How to load data from Mandrill to Redshift",
+		"url": "http://www.apirise.com/how-to-load-data-from-mandrill-to-redshift/",
+		"domain": "www.apirise.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HV1233nAYbOvKVDQKJoxVq1IFKBkH17ZfPqXocW79VnCS8sMkxvdGsVJ7dZqGQLHH2a2igfF5Dn2knl1AswJ9QEQ117117",
+		"item_date": "2016-08-31 10:37:01",
+		"title": "Load data from Trello to Redshift",
+		"url": "http://www.apirise.com/load-data-from-trello-to-redshift/",
+		"domain": "www.apirise.com",
+		"image": ""
+	},
+	{
+		"curated_id": "livU7Wkw9RRUY1SNOygrNkDdyC1D57QNsiq16n8GaPg1Yb5cKkQyd123e2CCFVelrXMIQr116l380QWV8rY51cPgAw117117",
+		"item_date": "2016-09-01 10:37:01",
+		"title": "Load data from Braintree to Redshift",
+		"url": "http://www.apirise.com/load-data-from-braintree-to-redshift/",
+		"domain": "www.apirise.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mzWIOuWYKcORCtK123AdXWNFzmlfMU0GK9pXHHCW7dlHmTEzCNErJNJaxq6GI6UvOK1rxQcfNxtKcJ9qnwP69MeA117117",
+		"item_date": "2016-08-31 16:41:08",
+		"title": "Tweet Use Amazon S3 REST API actions to transfer data to Snowball with the S3 adapter httpstco67Ps6EGqjX httpstcoGZ5QxeoRIy",
+		"url": "https://twitter.com/awscloud/statuses/771130734715088897",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jXkgeNRx116iWiFaJ39x123QOOodkvjaDgQHsmBT8UfiLxC3Kp6E8SzVbIuqzUFzoezQfwb8sp0p3MZqhfWU0JZIDQ117117",
+		"item_date": "2016-08-25 14:22:04",
+		"title": "Integration strategy is a subcomponent of cloud strategy",
+		"url": "http://searchmanufacturingerp.techtarget.com/feature/Cloud-integration-tools-can-be-universal-solution-to-old-IT-problem",
+		"domain": "searchmanufacturingerp.techtarget.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6ioOo7yVXJUK4N1aOSLSfOambWjac0chwI3kD8FPL7LOzTqCCeHI4Pm1231y90EnHKi343NZq0SgoMCG2US31ZUw117117",
+		"item_date": "2016-08-25 00:00:00",
+		"title": "Automation requires humanity",
+		"url": "http://www.itsecurityguru.org/2016/08/25/automation-requires-humanity/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
 		"curated_id": "e116QGxObniW4LE1UfSwEv3TdzD1hYAZtnfATiHaP0Aqclwiad7123thOEFJtH8e1162lc1lfl7TUjtYUqrm0liG116l3g117117",
 		"item_date": "2016-08-12 00:00:00",
 		"title": "Create IFTTT Recipes Directly in Apps",
@@ -10,7 +58,7 @@
 	{
 		"curated_id": "j116R06AxIB042azTUMuwN6Th2vD8v3xypi1qe1CrteMVaHQ5ApcFE6jNeVN259HKRrlqNHAV5BX3MfzKuNFdCwQ117117",
 		"item_date": "2016-08-10 04:50:06",
-		"title": "Automate adding new Mailjet subscribers directly from Trello",
+		"title": "Tweet Automate adding new Mailjet subscribers directly from Trello httpstcoubJPyaGJ8v cc zapier httpstco8stJ6bFxP1",
 		"url": "https://twitter.com/mailjet/statuses/763341651179892736",
 		"domain": "twitter.com",
 		"image": ""
@@ -18,7 +66,7 @@
 	{
 		"curated_id": "JS7yxPxPe1168cfy5kFUN8VsOqHgdcdbccXQvGVu1uiMxrY7xiy8uYklUtXgGOOiHccGTW0ruDWpwpfszUuumgZA117117",
 		"item_date": "2016-08-10 10:01:02",
-		"title": "Mailjet: Fullcontact to auto add contacts from business cards to email lists",
+		"title": "Tweet Sync Mailjet  Fullcontact to auto add contacts from business cards to email lists httpstco6dBDnYUqGY Zapier httpstcotcuoooBMwg",
 		"url": "https://twitter.com/mailjet/statuses/763419900727754755",
 		"domain": "twitter.com",
 		"image": ""
@@ -26,7 +74,7 @@
 	{
 		"curated_id": "zCUPFLYNWXBNoDP1fgONNU2HqA08FJnewY4ygWnroSTjhwunLQrzrIb5LCqkJPHClahVXqe116bqEI31Uf3ifSYA117117",
 		"item_date": "2016-08-11 07:47:06",
-		"title": "Sync Mailjet: Evernote to save new subscribers to a new note automatically",
+		"title": "Tweet Sync Mailjet  Evernote to save new subscribers to a new note automatically httpstcoLue3XmS6ek cc zapier httpstcolT4nlR5fYC",
 		"url": "https://twitter.com/mailjet/statuses/763748582331707392",
 		"domain": "twitter.com",
 		"image": ""
@@ -34,7 +82,7 @@
 	{
 		"curated_id": "QvhV0qMEQYSiIZBsKoQcuX8Em5S123JuIQkO7YBJgreuJV123116SbKMmxkgaheBHbL1238J5afUt0yIU1Y116SCk4ciZo116g117117",
 		"item_date": "2016-08-11 09:11:02",
-		"title": "Sync Mailjet to GravityForms to automatically create contacts from new form entries",
+		"title": "Tweet Sync Mailjet  GravityForms to automatically create contacts from new form entries httpstcoZYyO4CRLAA zapier httpstcoPXh8rY0oBi",
 		"url": "https://twitter.com/mailjet/statuses/763769704771121152",
 		"domain": "twitter.com",
 		"image": ""
