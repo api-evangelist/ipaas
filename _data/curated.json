@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "ZQi8L1ckor6OQmlLJf4QRDvRvxZpBeSkGVgvHma9f3qBY1234FG7SWjst6116zVHEPiubR494q863bs6123m8Q6GBdVQ117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Using Azure Logic Apps with HTTP Requests",
+		"url": "http://www.codeproject.com/Articles/1136839/Using-Azure-Logic-Apps-with-HTTP-Requests",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rmLDneVo95i9Py7xIoCLY123zvuI3Gv7XzzdXYPHDGUFtaWZ9kMZx3BO3irPxb74Esu8x9CitoGCAlTpnMs7fJ3A117117",
+		"item_date": "2016-10-18 12:29:16",
+		"title": "Workflow Update Brings Ability to Interact with Any Web API",
+		"url": "https://www.macstories.net/ios/workflow-update-brings-ability-to-interact-with-any-web-api/",
+		"domain": "www.macstories.net",
+		"image": ""
+	},
+	{
 		"curated_id": "aW1169lISRPSlaPRs9dmDbjp23TlTTisaOUVfq116123lhWwlnRswc1NGcTLeEQspGVYEV116fqjZN6HDOmyd16gdTafqg117117",
 		"item_date": "2016-10-06 00:00:00",
 		"title": "Introducing Push by Zapier a Universal Chrome Extension for All Your Apps",
