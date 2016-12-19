@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "NueIbun7vtmgx116YRvjxfiiJxDQfZkQ836oAzgP116qIZG50H0lnWrKGG97lvHl7wfeSqn06e3123N9Xv5oCRwmaZVA117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Integration as a Platform iPaaS vs Integration as a Tool",
+		"url": "http://blog.scribesoft.com/integration-as-a-platform-ipaas-vs-integration-as-a-tool/",
+		"domain": "blog.scribesoft.com",
+		"image": ""
+	},
+	{
 		"curated_id": "e1TOOGhV7EkUI5ylIPxHgp09bENawR5R9KSp7eCAnIZIPtt123abHIog8GNwfAe9VrrJUaSI2SNMIsc8KeVUsV4A117117",
 		"item_date": "2016-11-11 14:54:34",
 		"title": "Forwarding MQTT messages to APIs with or without Zapier",
