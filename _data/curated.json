@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "rKbFcIhG6Ti96jsQxDwgjahoer6ilZ1UtQo2G1166Z0ro8knuwpzPn1Oh75lggp1RT6xY1235gUl89BJquSiCoJEdg117117",
+		"item_date": "2017-02-10 11:00:55",
+		"title": "CloudFormation templates make it easy to provision StepFunctions state machines amp coordinate microservices httpstco5ixk3mfET5",
+		"url": "https://aws.amazon.com/about-aws/whats-new/2017/02/aws-cloudformation-adds-support-for-aws-step-functions/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GfM8lxmPGjMnpEzA1YKZJRZ1KHqYlhH7SkHKDxHZcHBCiR116mwFmz3Ct1162eb7bUevFUfebucPv6fDMLZjxv1169cA117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "Stoplight Launches Scenarios API Testing and Debugging Tool",
+		"url": "https://www.programmableweb.com/news/stoplight-launches-scenarios-api-testing-and-debugging-tool/brief/2017/02/07",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
 		"curated_id": "cOx116qzCZoocPzz9i116116tT05snpGkk123gXK8EcXtoInV9JlE2lMVBM1231mpuQzvWVAmYzNTwUBiYEbQ25JpRGO1232Tg117117",
 		"item_date": "2017-02-03 00:00:00",
 		"title": "11 Great ETL Tools and the Case for Saying No to ETL",
