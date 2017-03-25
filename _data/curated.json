@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "0UwCqUuj5cpXwNBwa1166BtSxsDaziUNErfOwH5ltKe4Eq7gOzcYBU0u22QgK3txMpzzBW1238Ic19123F9hTShyBRNw117117",
+		"item_date": "2017-03-23 00:00:00",
+		"title": "What Is ETL and ETL Testing",
+		"url": "https://dzone.com/articles/what-is-etl-and-etl-testing",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SRkz0GZDEk8nfxWeEHAgKoFBPfwFxgmaRoCInuHqgYkMQGQy116e123czRPEKN116LHx116fZ7agmPZqHrpI116zNcyhLFPg117117",
+		"item_date": "2017-03-21 00:00:00",
+		"title": "GraphSpecialized ETL Taking Citizens Into the Graph and Keeping it up to Date",
+		"url": "https://dzone.com/articles/graph-specialized-etl-taking-citizens-into-the-graph-and-keeping-it-up-to-date",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KnE123RvF80VdfGbS4123yy6XpWmHVnp0XPK5iUJO9bNHd4Ypm1CY123h1yPQ9cQsBm116NjvDxWIlnbQQyQfIbrO1ar116w117117",
+		"item_date": "2017-03-21 00:00:00",
+		"title": "ETL Tools A Modern List",
+		"url": "https://dzone.com/articles/etl-tools-a-modern-list",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cA5awFVXqBHbuMFkCmYLBStLtV1167bz2HTYinLt123rwP1230ymOYQTZD116XOJFs8gpNuxLbbyfK3gaOqd6PFQ9FyUHA117117",
+		"item_date": "2017-03-21 10:08:43",
+		"title": "Introducing Zapiers CLI Tool Deploy API Integrations Fast",
+		"url": "https://zapier.com/engineering/zapier-command-line-interface/",
+		"domain": "zapier.com",
+		"image": ""
+	},
+	{
 		"curated_id": "j14BV6JZOp7123nmKwigcCnL1165aRZ1KLAY51uRoPLD2uyDufmxEUTEhtvPMZFExspCQtdFEK6x62ao8116tuC116Isjg117117",
 		"item_date": "2017-03-01 00:00:00",
 		"title": "Tracking Gmail Reply Data with Keen IO and IFTTT",
