@@ -1,0 +1,14 @@
+- slug: anypoint-templates
+  name: Anypoint Templates
+  description: >-
+    Built to address the most common integration challenges, Anypoint Templates
+    can be easily configured, customized, and extended to meet your needs.
+  url: 'http://www.mulesoft.com/library#/templates'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/mulesoft-logo.jpeg
+  tags: 'iPaaS,Interoperability'
