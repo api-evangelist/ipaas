@@ -1,0 +1,661 @@
+- slug: azure-logic-apps
+  name: Azure Logic Apps
+  description: >-
+    You can connect apps, data, and devices anywhere&mdash;on-premises or in the
+    cloud&mdash;with our large ecosystem of software as a service (SaaS) and
+    cloud-based connectors that includes Salesforce, Office 365, Twitter,
+    Dropbox, Google services, and more. It's never been easier to access data
+    and keep your disparate systems up-to-date, in real-time. New connectors are
+    being added to the Azure Marketplace all of the time.
+  url: 'https://azure.microsoft.com/en-us/services/logic-apps/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-logic-apps-01-connectors.png
+  tags: 'Microsoft,Integration,iPaaS'
+- slug: stringify
+  name: Stringify
+  description: >-
+    They are hard at work developing new ways to help you connect your life.
+    This begins with a solution that helps you discover, design and control new
+    experiences by meaningfully connecting those things that matter most.
+    They're helping connect our life so you can live it.
+  url: 'https://www.stringify.com'
+  short_url: ''
+  twitter: 'https://twitter.com/StringifyIt'
+  blog: 'https://www.stringify.com/blog/'
+  blog_rss: 'https://www.stringify.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stringify-logo.png
+  tags: 'iPaaS,iPaaS,Interoperability,Automation'
+- slug: datafire
+  name: DataFire
+  description: >-
+    DataFire allows you to process and transfer data between APIs, databases,
+    and more. DataFire has hundreds of data sources and destinations for you to
+    choose from. DataFire is built on open standards like RSS and Swagger so you
+    can easily add your own integrations. Use JavaScript to transform data from
+    one connection into input for another.
+  url: 'https://datafire.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datafire-logo.png
+  tags: 'iPaaS,Interoperability,Automation'
+- slug: stackpile
+  name: StackPile
+  description: >-
+    A better way to install 3rd party apps. StackPile allows you to install and
+    use 3rd party tools and apps on your website in seconds without expensive
+    code changes.
+  url: 'https://stackpile.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/stackpile'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stackpile-logo.png
+  tags: 'iPaaS,Embeddable'
+- slug: flow-xo
+  name: Flow XO
+  description: >-
+    Connect your cloud apps together into automated workflows. Workflows run
+    through your existing apps and email, no new tools to learn. Our simple
+    workflow designer is easy, fast and fun - even for novice users. &nbsp;Use
+    Flow XO for marketing, on-boarding, up-selling and renewals &amp;
+    retention.&nbsp;
+  url: 'https://flowxo.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/flowxo'
+  blog: 'http://blog.flowxo.com/'
+  blog_rss: 'http://blog.flowxo.com/feed/'
+  github: 'https://github.com/flowxo'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flowxo-logo.png
+  tags: 'iPaaS,Bots'
+- slug: mulesoft
+  name: MuleSoft
+  description: >-
+    A single graphical design environment for Anypoint Platform, Anypoint&trade;
+    Studio accelerates developer productivity with an easy on ramp for cloud and
+    on-premises integration and API development.
+  url: 'https://www.mulesoft.com/platform/enterprise-integration'
+  short_url: ''
+  twitter: 'https://twitter.com/MuleSoft'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg
+  tags: 'iPaaS,Aggregation,Clients'
+- slug: workato
+  name: Workato
+  description: >-
+    Workato helps anyone create powerful, business critical integrations between
+    cloud apps in minutes. No IT. No developers required. At Workato we are
+    passionate about creating an enterprise grade, rich and secure service to
+    integrate your apps but with the soul of some of the most beloved consumer
+    services by being simple, fun, self-service, community based and
+    inexpensive. Business users, yes, those of you that sign up for or use cloud
+    based applications can now also connect them together using Workato.
+  url: 'https://www.workato.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/workato'
+  blog: 'http://blog.workato.com/'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/workato-logo.png
+  tags: 'iPaaS,Aggregation'
+- slug: run-dexter
+  name: Run Dexter
+  description: >-
+    Solve those annoying problems on the web. In simpler times, BASH scripts
+    made repetitive tasks on your own computer easier to execute. But today,
+    your data is spread across dozens of web services, protected by OAuth, and
+    accessible only through service-specific APIs. Dexter brings the power of
+    local scripting to the web, allowing you to build simple apps that link
+    multiple services, run tasks, and get rid of headaches.
+  url: 'https://rundexter.com'
+  short_url: ''
+  twitter: 'https://twitter.com/rundexter'
+  blog: 'https://medium.com/dexter-blog'
+  blog_rss: 'https://medium.com/feed/dexter-blog'
+  github: 'https://github.com/dexter'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dexter-logo.png
+  tags: iPaaS
+- slug: skyvia
+  name: Skyvia
+  description: >-
+    Wizard-based integration with no effort, no coding, and no need for special
+    knowledge, performed completely in a cloud.
+  url: 'https://skyvia.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/SkyviaService'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/skyvia-logo.png
+  tags: iPaaS
+- slug: tadaweb
+  name: TaDaweb
+  description: >-
+    The TaDaweb Creator lets you create advanced web recipes. A web recipe can
+    be compared to an automatic process that collects, transforms, and combines
+    information. They are quick and easy to create because they are based on
+    human, rather than computer logic. Recipes can be created by users, with
+    TaDaweb also providing the option to create recipes on demand.
+  url: 'http://www.tadaweb.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tadaweb-logo.png
+  tags: iPaaS
+- slug: tray.io
+  name: tray.io
+  description: >-
+    Tray.io offers a platform that makes it easy for anyone to build and share
+    SaaS integrations. Currently integration solutions are divided into two
+    parts, simple point to point data migration services (easy to setup, very
+    restrictive), and enterprise platforms (resource heavy, expensive and
+    platform specific). Integrations are built on tray.io using the visual
+    workflow editor or any major programming language, thanks to the open
+    community of SaaS connectors, libraries and user interface components.
+  url: 'https://tray.io'
+  short_url: ''
+  twitter: 'https://twitter.com/tray'
+  blog: 'https://tray.io/blog/'
+  blog_rss: ''
+  github: 'https://github.com/trayio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tray-io-logo.png
+  tags: iPaaS
+- slug: kloudless
+  name: Kloudless
+  description: >-
+    Kloudless provides a single API to connect with over 20 different cloud
+    storage services such as Box, Dropbox, Office 365 and more. Developers can
+    save time integrating their apps with cloud storage by using Kloudless's
+    unified API. Kloudless also adds in new functionality such as event
+    notifications even if the underlying API doesn't provide it, and provides UI
+    tools such as a File Explorer to simplify integration.
+  url: 'https://kloudless.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/kloudless'
+  blog: 'http://blog.kloudless.com/'
+  blog_rss: 'http://blog.kloudless.com/rss.xml'
+  github: 'https://github.com/Kloudless'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kloudless-logo.png
+  tags: 'Interoperability,iPaaS,Aggregation,Cloud Storage,Storage,Aggregation'
+- slug: mashablelogic
+  name: MashableLogic
+  description: >-
+    MashableLogic is a mashup development platform that provides a system for
+    leveraging API's by turning them into re-usable components that can be
+    combined to compose software solutions.
+  url: 'http://www.mashablelogic.com'
+  short_url: ''
+  twitter: 'https://twitter.com/MashableLogic'
+  blog: 'http://www.mashablelogic.com/press_releases.htm'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashablelogic-logo.jpeg
+  tags: 'Interoperability,Automation,iPaaS'
+- slug: apache-camel
+  name: Apache Camel
+  description: >-
+    Camel empowers you to define routing and mediation rules in a variety of
+    domain-specific languages, including a Java-based Fluent API, Spring or
+    Blueprint XML Configuration files, and a Scala DSL. This means you get smart
+    completion of routing rules in your IDE, whether in a Java, Scala or XML
+    editor. Apache Camel uses URIs to work directly with any kind of Transport
+    or messaging model such as HTTP, ActiveMQ, JMS, JBI, SCA, MINA or CXF, as
+    well as pluggable Components and Data Format options. Apache Camel is a
+    small library with minimal dependencies for easy embedding in any Java
+    application. Apache Camel lets you work with the same API regardless which
+    kind of Transport is used - so learn the API once and you can interact with
+    all the Components provided out-of-box. Apache Camel provides support for
+    Bean Binding and seamless integration with popular frameworks such as
+    Spring, Blueprint and Guice. Camel also has extensive support for unit
+    testing your routes.
+  url: 'http://camel.apache.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-camel.jpeg
+  tags: 'DSL,iPaaS,Apache'
+- slug: google-dataflow
+  name: Google Dataflow
+  description: >-
+    Dataflow is a unified programming model and a managed service for developing
+    and executing a wide range of data processing patterns including ETL, batch
+    computation, and continuous computation. Cloud Dataflow frees you from
+    operational tasks like resource management and performance optimization.
+  url: 'https://cloud.google.com/dataflow/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-dataflow.jpeg
+  tags: 'Data,iPaaS,Google APIs,Orchestration'
+- slug: scribe
+  name: Scribe
+  description: >-
+    Scribe Software Corporation provides cost-effective, no-coding solutions
+    that can be used as the only tool businesses need to integrate virtually any
+    application, data source or Software as a Service (SaaS) platform.
+  url: 'http://www.scribesoft.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/scribesoft'
+  blog: ''
+  blog_rss: 'http://blog.scribesoft.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/scribe-soft-logo.jpg
+  tags: 'Data,iPaaS'
+- slug: stitch
+  name: Stitch
+  description: >-
+    Stitch evolved out of RJMetrics, a widely used business intelligence
+    platform. Data consolidation was always central to the RJMetrics product,
+    and the team repeatedly heard requests from customers looking for ETL as a
+    standalone service. We listened.&nbsp;
+  url: 'https://www.stitchdata.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/stitch_data'
+  blog: 'https://blog.stitchdata.com/'
+  blog_rss: 'https://blog.stitchdata.com/feed'
+  github: 'https://github.com/stitchdata'
+  image: ''
+  tags: 'Data,Integration,iPaaS'
+- slug: built.io
+  name: Built.io
+  description: >-
+    built.io is a mobile backend and application development platform. By
+    powering the entire backend (servers, cloud infrastructure, database,
+    scaling), and delivering built-in core app functionality, built.io lets
+    developers build apps in record time, and focus their talent on an awesome
+    user experience. Built from the ground up to support the growing enterprise
+    mobility market, built.io is first to release business user tools, a unique
+    feature set among mobile application development platforms.
+  url: 'https://www.built.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/builtio'
+  blog: 'https://www.built.io/blog/'
+  blog_rss: 'https://www.built.io/blog/feed/'
+  github: 'https://github.com/raweng'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/builtio-logo.png
+  tags: 'BaaS,Mobile,Applications,iPaaS,API LIfeycle'
+- slug: road-rules
+  name: Road Rules
+  description: >-
+    Road Rules enables drivers to create rules that automate their lives in the
+    context of the car. Our app works with both connected cars &amp;
+    non-connected cars.
+  url: 'http://roadrules.co/'
+  short_url: ''
+  twitter: 'https://twitter.com/RoadRulesApp'
+  blog: 'http://roadrules.co/blog/'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/road_rules_logo_graphic.png
+  tags: 'Automobiles,Automation,iPaaS'
+- slug: wappwolf
+  name: WAPPWOLF
+  description: >-
+    Wappwolf is focused on deconstructing the barriers of the Cloud, by
+    connecting your Evernote, Facebook, Flickr, and other web services / apps to
+    Dropbox, allowing users to drag &amp; drop files into a predefined folder on
+    Dropbox and automatically convert and sync to your favorite places.
+  url: 'http://wappwolf.com/dropboxautomator'
+  short_url: ''
+  twitter: 'https://twitter.com/wappwolf'
+  blog: 'http://blog.wappwolf.com/'
+  blog_rss: 'http://blog.wappwolf.com/?feed=rss2'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/wappwolf-logo.png
+  tags: 'Automation,Transformation,Interoperability,iPaaS'
+- slug: temboo
+  name: Temboo
+  description: >-
+    Temboo&nbsp;has built a Library with 1500+ detail-documented, ready-to-run
+    developer processes called Choreos for 100+ APIs and more. We offer flexible
+    and smart SDKs for first-time to big-time developers (and everyone in
+    between). Build well-crafted, mightier apps in less time. We build
+    efficient, smart shortcuts that you can drag and drop right into your code.
+    More than just code snippets, these ready-to-use processes (so elegant and
+    special that we call them Choreos, like choreography) make API integration
+    easy, taking care of authentication, credential management, updates, and
+    more. Right now, our Library has Choreos for over 100 popular APIs (and
+    counting).
+  url: 'https://www.temboo.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/temboo'
+  blog: 'http://blog.temboo.com/'
+  blog_rss: 'http://blog.temboo.com/rss'
+  github: 'https://github.com/temboo'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Temboo-Logo.png
+  tags: 'Automation,Scripting,iPaaS,Programming,iPaaS,iPaaS,API LIfeycle'
+- slug: we-wired-web
+  name: We Wired Web
+  description: >-
+    We-Wired Web enables users to define automated tasks using over 50 popular
+    web services using APIs that execute periodically.
+  url: 'https://wewiredweb.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/WeWiredWeb'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/We-Wired-Web-Logo.png
+  tags: 'Automation,iPaaS'
+- slug: rules.io
+  name: Rules.io
+  description: >-
+    Overwhelmed with too much data and too many metrics? &nbsp;The rules.io team
+    drills into your data with you, giving you a concrete idea of which users
+    you should talk to and how to engage them.At the core of rules.io is a rules
+    and segmentation engine which captures user-centric data such as usage and
+    behavior, purchases, and technical problems, and allows you to act on this
+    information in real-time or via triggered automation.
+  url: 'http://rules.io'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/rules-io-logo.jpeg
+  tags: 'Automation,Interoperability,Rules,iPaaS'
+- slug: automateit
+  name: AutomateIt
+  description: >-
+    AutomateIt is an open source tool for automating the setup and maintenance
+    of servers, applications and their dependencies, providing a way to manage
+    files, packages, services, networks, accounts, roles, templates and
+    more.&nbsp;
+  url: 'http://automateitapp.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/AutomateItApp'
+  blog: 'http://automateitapp.com/blog/'
+  blog_rss: 'http://automateitapp.com/feed/'
+  github: 'https://github.com/automateit'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/automateit-logo.png
+  tags: >-
+    Automation,Interoperability,Open Source,iPaaS,Federal Government,Federal
+    Government,Federal Government,Federal Government
+- slug: zapier
+  name: Zapier
+  description: >-
+    Zapier lets SaaS users create integrations that push data between hundreds
+    of best-in-breed web applications without having to write any code or
+    wrangle APIs.
+  url: 'https://zapier.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/zapier'
+  blog: 'https://zapier.com/blog/'
+  blog_rss: 'https://zapier.com/engineering/feeds/latest/'
+  github: 'https://github.com/zapier'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zapier-logo.png
+  tags: 'Automation,Interoperability,iPaaS,Webhooks,Webhooks Service,API LIfeycle'
+- slug: itduzzit
+  name: itDuzzit
+  description: >-
+    itDuzzit is a cloud integration platform like no other; simple enough for
+    non-technical users, yet powerful enough to support the most complex
+    integration.
+  url: 'http://cloud.itduzzit.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/itDuzzit'
+  blog: 'http://www.itduzzit.com/home/blog/'
+  blog_rss: 'http://feeds.feedburner.com/itduzzit'
+  github: 'https://github.com/itduzzit'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/itduzzit-logo.png
+  tags: 'Automation,Interoperability,iPaaS,Chicago'
+- slug: cloudwork
+  name: CloudWork
+  description: >-
+    Cloudwork is a service that allows users to automate tasks between Google
+    Apps, Salesforce, Evernote, Zoho, Twitter, Freshbooks, MailChimp, Zendesk,
+    Dropbox, WordPress and others.
+  url: 'https://cloudwork.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/cloudwork'
+  blog: 'http://blog.cloudwork.com/'
+  blog_rss: 'http://blog.cloudwork.com/feed/'
+  github: 'https://github.com/cloudwork'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/cloudwork-logo.png
+  tags: 'Automation,Interoperability,iPaaS,API LIfeycle'
+- slug: cloveretl
+  name: CloverETL
+  description: >-
+    CloverETL is open source data integration platform based on Java. It can be
+    used for data migration, data cleansing and other data transformation tasks.
+  url: 'http://www.cloveretl.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/CloverETL'
+  blog: 'http://www.cloveretl.com/blog/'
+  blog_rss: 'http://www.cloveretl.com/blog/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/cloveretl-logo.png
+  tags: 'Automation,Interoperability,iPaaS'
+- slug: elastic.io
+  name: elastic.io
+  description: >-
+    elastic.io helps you to automate routine operations and connect multiple
+    cloud APIs.
+  url: 'http://www.elastic.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/elasticio'
+  blog: 'http://www.elastic.io/blog'
+  blog_rss: ''
+  github: 'https://github.com/elasticio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/elasticio_logo.png
+  tags: 'Automation,Interoperability,iPaaS'
+- slug: pentaho
+  name: Pentaho
+  description: >-
+    Delivers powerful Extraction, Transformation and Loading (ETL) capabilities
+    using an innovative, metadata-driven approach. With an intuitive, graphical,
+    drag and drop design environment, and a proven, scalable, standards-based
+    architecture, Pentaho Data Integration is increasingly the choice for
+    organizations over traditional, proprietary ETL or data integration tools.
+  url: ''
+  short_url: ''
+  twitter: 'https://twitter.com/seeclickfix'
+  blog: 'http://blog.pentaho.com/'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/pentaho-logo.png
+  tags: 'Automation,Interoperability,iPaaS'
+- slug: ritc
+  name: RITC
+  description: >-
+    Easily integrate &amp; automate cloud products and services, build apps, and
+    create workflows using the Ritc API, allowing you&nbsp;to add functionality
+    to your cloud applications and services.
+  url: ''
+  short_url: ''
+  twitter: 'https://twitter.com/tflofficial'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Ritc-logo.png
+  tags: 'Automation,Interoperability,iPaaS'
+- slug: snaplogic
+  name: SnapLogic
+  description: >-
+    SnapLogic's modern web architecture, containerized Snaps, and thriving
+    SnapStore ecosystem make it the only practical way to continually connect
+    your company to the burgeoning number and diversity of data sources and
+    cloud applications.&nbsp;
+  url: 'http://www.snaplogic.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/snaplogic'
+  blog: 'http://www.snaplogic.com/blog'
+  blog_rss: ''
+  github: 'https://github.com/SnapLogic'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/snaplogic-logo.png
+  tags: 'Automation,Interoperability,iPaaS'
+- slug: talend
+  name: Talend
+  description: >-
+    Talend offers open source middleware solutions that address big data
+    integration, data management and application integration needs for
+    businesses of all sizes.
+  url: 'http://www.talend.com'
+  short_url: ''
+  twitter: 'https://twitter.com/talend'
+  blog: 'http://www.talend.com/blog'
+  blog_rss: 'http://feeds.feedburner.com/Talend'
+  github: 'https://github.com/Talend'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/talend-logo.png
+  tags: 'Automation,Interoperability,iPaaS'
+- slug: systemizer
+  name: Systemizer
+  description: >-
+    Systemizer allows you to automate your online workflow by chaining all sorts
+    of web-based events, actions and user interactions together. All of
+    Systemizer's functionality is available via an extensive REST API. All you
+    need is an API key (see the Create Account call for details) and an
+    environment with which to make HTTP requests such as Fiddler (Windows) or
+    cURL (Command line, all platforms). Typically however, you'll want to use
+    the Systemizer user interface (unreleased as yet) or your own application
+    code which will make calls to the Systemizer API according to the needs of
+    your application.
+  url: 'http://systemizer.net/api'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/systemizer-logo.png
+  tags: 'Automation,BROWSER,iPaaS'
+- slug: bipio
+  name: bipio
+  description: >-
+    Bipio is an API for pipelining content feeds across many popular web
+    services and exposing them through public or private endpoints. This
+    documentation addresses some key concepts in getting you on your way to
+    creating meaningful content transformations with Bipio, including how to
+    plug its components into your own application.&nbsp;
+  url: 'https://bip.io/docs'
+  short_url: ''
+  twitter: 'https://twitter.com/bipioapp'
+  blog: 'http://blog.bip.io/'
+  blog_rss: 'http://blog.bip.io/rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bip_badge.png
+  tags: 'Application,Social,Aggregation,Interoperability,Automation,iPaaS'
+- slug: aws-step-functions
+  name: AWS Step Functions
+  description: >-
+    AWS Step Functions makes it easy to coordinate the components of distributed
+    applications and microservices using visual workflows. Building applications
+    from individual components that each perform a discrete function lets you
+    scale and change applications quickly. Step Functions is a reliable way to
+    coordinate components and step through the functions of your application.
+    Step Functions provides a graphical console to arrange and visualize the
+    components of your application as a series of steps. This makes it simple to
+    build and run multi-step applications. Step Functions automatically triggers
+    and tracks each step, and retries when there are errors, so your application
+    executes in order and as expected. Step Functions logs the state of each
+    step, so when things do go wrong, you can diagnose and debug problems
+    quickly. You can change and add steps without even writing code, so you can
+    easily evolve your application and innovate faster.  AWS Step Functions
+    manages the operations and underlying infrastructure for you to help ensure
+    your application is available at any scale.
+  url: 'https://aws.amazon.com/step-functions/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-step-functions.png
+  tags: 'Amazon Web Services,Automation,Orchestration,iPaaS,Etl'
+- slug: jolicloud
+  name: Jolicloud
+  description: >-
+    Jolidrive is your personal space in the cloud. Jolidrive unifies all your
+    content from multiple services in one simple and beautiful interface
+    accessible from anywhere. Jolicloud is the most innovative platform to
+    access our life online, from computers to mobile.
+  url: 'http://www.jolicloud.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/jolicloud'
+  blog: 'http://www.jolicloud.com/blog/'
+  blog_rss: 'http://www.jolicloud.com/blog/feed/'
+  github: 'https://github.com/jolicloud'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/jolicloud-logo.png
+  tags: 'Aggregation,Interoperability,iPaaS'
+- slug: otixo
+  name: Otixo
+  description: >-
+    Manage all your clouds from one login with Otixo. Connect services like
+    Dropbox, Box, SkyDrive, Google Docs, SugarSync, Picasa, CX, Amazon S3, FTP
+    sites and WebDav drives...all from one simple app.
+  url: 'http://otixo.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/otixo'
+  blog: 'http://blog.otixo.com/'
+  blog_rss: 'http://blog.otixo.com/feed/'
+  github: 'https://github.com/otixo-hudson'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/otixo-logo.png
+  tags: 'Aggregation,Interoperability,iPaaS'
+- slug: unifyle
+  name: Unifyle
+  description: >-
+    Primadesk brings order to online life, enabling users to search, manage and
+    backup personal data from anywhere, whether it is from a personal computer,
+    tablet or smartphone. Primadesk was founded in 2009 by two entrepreneurs who
+    recognized the growing need for making Internet-based applications and
+    online information unified across applications seamlessly.&nbsp;
+  url: 'https://www.primadesk.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/primadesk'
+  blog: 'http://primadesk.wordpress.com/'
+  blog_rss: 'http://primadesk.wordpress.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/primadesk-logo.png
+  tags: 'Aggregation,Interoperability,iPaaS'
