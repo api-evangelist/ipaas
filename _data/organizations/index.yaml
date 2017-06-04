@@ -1,601 +1,661 @@
-- slug: api-fortress
-  name: API Fortress
+- slug: azure-logic-apps
+  name: Azure Logic Apps
   description: >-
-    Test. Monitor. Automate: API Fortress is an enterprise cloud solution to
-    test, monitor, and automate the testing of APIs and web services. Create a
-    response validation test using our simple wizard, schedule the test to run
-    multiple times a day, and monitor the updates sent to your inbox.
-  url: 'http://apifortress.com'
-  short_url: ''
-  twitter: 'https://twitter.com/apifortress'
-  blog: 'http://apifortress.com/blog/'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-fortress.png
-  tags: 'Testing,Monitoring'
-- slug: apibond.com
-  name: apibond.com
-  description: >-
-    APIBond is an API management platform that acts as a proxy where you can
-    validate, transform, secure, analyze and scale any existing API.
-  url: 'http://apibond.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/apibond'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond-logo.png
-  tags: 'Monitoring,Aggregation,Testing'
-- slug: apica
-  name: Apica
-  description: >-
-    Apica provides the most effective technology for optimizing the performance
-    of cloud and mobile applications. Apica offers companies and developers
-    alike easy-to-use, cloud-based load testing and web performance monitoring
-    tools to test applications for maximum capacity, daily performance, improved
-    load times, and protection from peak loads. For more information about how
-    Apica is providing the highest standard for cloud and mobile application
-    performance management.
-  url: 'https://www.apicasystem.com'
-  short_url: ''
-  twitter: 'https://twitter.com/apicasystems'
-  blog: 'https://www.apicasystem.com/blog/'
-  blog_rss: 'https://www.apicasystem.com/feed/'
-  github: 'https://github.com/ApicaSystem'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apica-logo.png
-  tags: 'Monitoring,Testing,Performance'
-- slug: apigee-api-studio
-  name: Apigee API Studio
-  description: >-
-    Apigee launched their API Studio out of their earlier Apigee-127 product,
-    their work on the Swagger platform and editor, and their BaaS offering. The
-    new studio opens up the ability for developers to design, mock, test and
-    share via their online open source based platform.
-  url: 'http://apistudio.io/'
+    You can connect apps, data, and devices anywhere&mdash;on-premises or in the
+    cloud&mdash;with our large ecosystem of software as a service (SaaS) and
+    cloud-based connectors that includes Salesforce, Office 365, Twitter,
+    Dropbox, Google services, and more. It's never been easier to access data
+    and keep your disparate systems up-to-date, in real-time. New connectors are
+    being added to the Azure Marketplace all of the time.
+  url: 'https://azure.microsoft.com/en-us/services/logic-apps/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png
-  tags: 'Design,Testing,Virtualization,Clients,Studio'
-- slug: apitest.io
-  name: APITest.IO
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-logic-apps-01-connectors.png
+  tags: 'Microsoft,Integration,iPaaS'
+- slug: stringify
+  name: Stringify
   description: >-
-    apiTest.io is the new testing tool to test all your API requests, easy to
-    use with request and results saving. With our preconfigured API calls it is
-    easy to test some popular websites or your own HTTP(s), REST, SOAP, OAUTH
-    server.
-  url: 'https://www.apitest.io/'
+    They are hard at work developing new ways to help you connect your life.
+    This begins with a solution that helps you discover, design and control new
+    experiences by meaningfully connecting those things that matter most.
+    They're helping connect our life so you can live it.
+  url: 'https://www.stringify.com'
   short_url: ''
-  twitter: 'https://twitter.com/apitest_io'
-  blog: ''
-  blog_rss: ''
+  twitter: 'https://twitter.com/StringifyIt'
+  blog: 'https://www.stringify.com/blog/'
+  blog_rss: 'https://www.stringify.com/feed/'
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-test-io-logo.png
-  tags: Testing
-- slug: apitools
-  name: APItools
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stringify-logo.png
+  tags: 'iPaaS,iPaaS,Interoperability,Automation'
+- slug: datafire
+  name: DataFire
   description: >-
-    Building Apps that depend on APIs speeds up development and helps make
-    software all-round more awesome. However, tracking and managing traffic
-    flows to these APIs, reacting if they slow down or fail, dealing with
-    version changes and the like can add massive overhead to development and
-    operations.
-  url: 'https://www.apitools.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/apitools'
-  blog: 'http://docs.apitools.com/blog/'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apitools-logo.png
-  tags: 'Testing,API Proxy'
-- slug: assertible
-  name: Assertible
-  description: >-
-    Gain confidence in crucial infrastructure by using Assertible's automated QA
-    tools to test and monitor your web services across deployments and
-    environments. Reduce bugs in web applications by using Assertible to create
-    an automated QA pipeline that helps you catch failures and ship code faster.
-  url: 'https://assertible.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/AssertibleApp'
-  blog: 'https://assertible.com/blog'
-  blog_rss: ''
-  github: 'https://github.com/assertible'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2017-04-27 at 1.26.20 PM.png
-  tags: Testing
-- slug: aws-xray
-  name: AWS X-Ray
-  description: >-
-    AWS X-Ray helps developers analyze and debug production, distributed
-    applications, such as those built using a microservices architecture. With
-    X-Ray, you can understand how your application and its underlying services
-    are performing to identify and troubleshoot the root cause of performance
-    issues and errors. X-Ray provides an end-to-end view of requests as they
-    travel through your application, and shows a map of your applications
-    underlying components. You can use X-Ray to analyze both applications in
-    development and in production, from simple three-tier applications to
-    complex microservices applications consisting of thousands of services.
-  url: 'https://aws.amazon.com/xray/'
+    DataFire allows you to process and transfer data between APIs, databases,
+    and more. DataFire has hundreds of data sources and destinations for you to
+    choose from. DataFire is built on open standards like RSS and Swagger so you
+    can easily add your own integrations. Use JavaScript to transform data from
+    one connection into input for another.
+  url: 'https://datafire.io/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-xray.png
-  tags: 'Amazon Web Services,Monitoring,Testing,Orchestration'
-- slug: azure-application-insights
-  name: Azure Application Insights
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datafire-logo.png
+  tags: 'iPaaS,Interoperability,Automation'
+- slug: stackpile
+  name: StackPile
   description: >-
-    Get rich performance monitoring, powerful alerting, and easy-to-consume
-    dashboards to help ensure your applications are available and performing as
-    you expect. Quickly see if you have a problem, how many customers are
-    affected, and perform a root cause analysis to find and fix the issue.
-  url: 'https://azure.microsoft.com/en-us/services/application-insights/'
+    A better way to install 3rd party apps. StackPile allows you to install and
+    use 3rd party tools and apps on your website in seconds without expensive
+    code changes.
+  url: 'https://stackpile.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/stackpile'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stackpile-logo.png
+  tags: 'iPaaS,Embeddable'
+- slug: flow-xo
+  name: Flow XO
+  description: >-
+    Connect your cloud apps together into automated workflows. Workflows run
+    through your existing apps and email, no new tools to learn. Our simple
+    workflow designer is easy, fast and fun - even for novice users. &nbsp;Use
+    Flow XO for marketing, on-boarding, up-selling and renewals &amp;
+    retention.&nbsp;
+  url: 'https://flowxo.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/flowxo'
+  blog: 'http://blog.flowxo.com/'
+  blog_rss: 'http://blog.flowxo.com/feed/'
+  github: 'https://github.com/flowxo'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flowxo-logo.png
+  tags: 'iPaaS,Bots'
+- slug: mulesoft
+  name: MuleSoft
+  description: >-
+    A single graphical design environment for Anypoint Platform, Anypoint&trade;
+    Studio accelerates developer productivity with an easy on ramp for cloud and
+    on-premises integration and API development.
+  url: 'https://www.mulesoft.com/platform/enterprise-integration'
+  short_url: ''
+  twitter: 'https://twitter.com/MuleSoft'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg
+  tags: 'iPaaS,Aggregation,Clients'
+- slug: workato
+  name: Workato
+  description: >-
+    Workato helps anyone create powerful, business critical integrations between
+    cloud apps in minutes. No IT. No developers required. At Workato we are
+    passionate about creating an enterprise grade, rich and secure service to
+    integrate your apps but with the soul of some of the most beloved consumer
+    services by being simple, fun, self-service, community based and
+    inexpensive. Business users, yes, those of you that sign up for or use cloud
+    based applications can now also connect them together using Workato.
+  url: 'https://www.workato.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/workato'
+  blog: 'http://blog.workato.com/'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/workato-logo.png
+  tags: 'iPaaS,Aggregation'
+- slug: run-dexter
+  name: Run Dexter
+  description: >-
+    Solve those annoying problems on the web. In simpler times, BASH scripts
+    made repetitive tasks on your own computer easier to execute. But today,
+    your data is spread across dozens of web services, protected by OAuth, and
+    accessible only through service-specific APIs. Dexter brings the power of
+    local scripting to the web, allowing you to build simple apps that link
+    multiple services, run tasks, and get rid of headaches.
+  url: 'https://rundexter.com'
+  short_url: ''
+  twitter: 'https://twitter.com/rundexter'
+  blog: 'https://medium.com/dexter-blog'
+  blog_rss: 'https://medium.com/feed/dexter-blog'
+  github: 'https://github.com/dexter'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dexter-logo.png
+  tags: iPaaS
+- slug: skyvia
+  name: Skyvia
+  description: >-
+    Wizard-based integration with no effort, no coding, and no need for special
+    knowledge, performed completely in a cloud.
+  url: 'https://skyvia.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/SkyviaService'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/skyvia-logo.png
+  tags: iPaaS
+- slug: tadaweb
+  name: TaDaweb
+  description: >-
+    The TaDaweb Creator lets you create advanced web recipes. A web recipe can
+    be compared to an automatic process that collects, transforms, and combines
+    information. They are quick and easy to create because they are based on
+    human, rather than computer logic. Recipes can be created by users, with
+    TaDaweb also providing the option to create recipes on demand.
+  url: 'http://www.tadaweb.com/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/performance-management.png
-  tags: 'Microsoft,Monitoring,Testing,Diagnostics'
-- slug: azure-devtest-labs
-  name: Azure DevTest Labs
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tadaweb-logo.png
+  tags: iPaaS
+- slug: tray.io
+  name: tray.io
   description: >-
-    Azure DevTest Labs makes it easy to quickly create environments to deploy
-    and test applications. Use reusable templates and artifacts to build Windows
-    and Linux environments while minimalizing waste and controlling costs.
-  url: 'https://azure.microsoft.com/en-us/services/devtest-lab/'
+    Tray.io offers a platform that makes it easy for anyone to build and share
+    SaaS integrations. Currently integration solutions are divided into two
+    parts, simple point to point data migration services (easy to setup, very
+    restrictive), and enterprise platforms (resource heavy, expensive and
+    platform specific). Integrations are built on tray.io using the visual
+    workflow editor or any major programming language, thanks to the open
+    community of SaaS connectors, libraries and user interface components.
+  url: 'https://tray.io'
+  short_url: ''
+  twitter: 'https://twitter.com/tray'
+  blog: 'https://tray.io/blog/'
+  blog_rss: ''
+  github: 'https://github.com/trayio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tray-io-logo.png
+  tags: iPaaS
+- slug: kloudless
+  name: Kloudless
+  description: >-
+    Kloudless provides a single API to connect with over 20 different cloud
+    storage services such as Box, Dropbox, Office 365 and more. Developers can
+    save time integrating their apps with cloud storage by using Kloudless's
+    unified API. Kloudless also adds in new functionality such as event
+    notifications even if the underlying API doesn't provide it, and provides UI
+    tools such as a File Explorer to simplify integration.
+  url: 'https://kloudless.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/kloudless'
+  blog: 'http://blog.kloudless.com/'
+  blog_rss: 'http://blog.kloudless.com/rss.xml'
+  github: 'https://github.com/Kloudless'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kloudless-logo.png
+  tags: 'Interoperability,iPaaS,Aggregation,Cloud Storage,Storage,Aggregation'
+- slug: mashablelogic
+  name: MashableLogic
+  description: >-
+    MashableLogic is a mashup development platform that provides a system for
+    leveraging API's by turning them into re-usable components that can be
+    combined to compose software solutions.
+  url: 'http://www.mashablelogic.com'
+  short_url: ''
+  twitter: 'https://twitter.com/MashableLogic'
+  blog: 'http://www.mashablelogic.com/press_releases.htm'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashablelogic-logo.jpeg
+  tags: 'Interoperability,Automation,iPaaS'
+- slug: apache-camel
+  name: Apache Camel
+  description: >-
+    Camel empowers you to define routing and mediation rules in a variety of
+    domain-specific languages, including a Java-based Fluent API, Spring or
+    Blueprint XML Configuration files, and a Scala DSL. This means you get smart
+    completion of routing rules in your IDE, whether in a Java, Scala or XML
+    editor. Apache Camel uses URIs to work directly with any kind of Transport
+    or messaging model such as HTTP, ActiveMQ, JMS, JBI, SCA, MINA or CXF, as
+    well as pluggable Components and Data Format options. Apache Camel is a
+    small library with minimal dependencies for easy embedding in any Java
+    application. Apache Camel lets you work with the same API regardless which
+    kind of Transport is used - so learn the API once and you can interact with
+    all the Components provided out-of-box. Apache Camel provides support for
+    Bean Binding and seamless integration with popular frameworks such as
+    Spring, Blueprint and Guice. Camel also has extensive support for unit
+    testing your routes.
+  url: 'http://camel.apache.org/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-devtest-integrate.png
-  tags: 'Testing,Microsoft,Orchestration'
-- slug: bad-testing
-  name: BAD TESTING
-  description: "BAD TESTING offers software testing consulting services and helps you manage risks associated with technology changes. We offer\_an advanced and versatile skill set in software quality assurance, testing, and configuration to ensure effectively and on time product releases. We are experts at testing and evaluating both hardware and software products to identify and resolve all potential issues for both start ups or established environments."
-  url: 'http://www.badtesting.com/'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-camel.jpeg
+  tags: 'DSL,iPaaS,Apache'
+- slug: google-dataflow
+  name: Google Dataflow
+  description: >-
+    Dataflow is a unified programming model and a managed service for developing
+    and executing a wide range of data processing patterns including ETL, batch
+    computation, and continuous computation. Cloud Dataflow frees you from
+    operational tasks like resource management and performance optimization.
+  url: 'https://cloud.google.com/dataflow/'
   short_url: ''
-  twitter: 'https://twitter.com/BadTesting'
+  twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bad-testing-logo.png
-  tags: 'Testing,Chicago,Blog'
-- slug: blazemeter
-  name: BlazeMeter
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-dataflow.jpeg
+  tags: 'Data,iPaaS,Google APIs,Orchestration'
+- slug: scribe
+  name: Scribe
   description: >-
-    BlazeMeter is a self-service, load testing platform (PaaS) for developers
-    providing an enterprise grade, out-of-the-box load testing solution. Start
-    testing in under five minutes. BlazeMeter significantly simplifies the load
-    testing process by providing developers easy integration into their native
-    development environment.
-  url: 'http://blazemeter.com/'
+    Scribe Software Corporation provides cost-effective, no-coding solutions
+    that can be used as the only tool businesses need to integrate virtually any
+    application, data source or Software as a Service (SaaS) platform.
+  url: 'http://www.scribesoft.com/'
   short_url: ''
-  twitter: 'https://twitter.com/BlazeMeter'
-  blog: 'http://blazemeter.com/blog'
-  blog_rss: 'http://feedburner.google.com/fb/a/mailverify?uri=JmeterCloudBlog'
-  github: 'https://github.com/Blazemeter'
+  twitter: 'https://twitter.com/scribesoft'
+  blog: ''
+  blog_rss: 'http://blog.scribesoft.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/scribe-soft-logo.jpg
+  tags: 'Data,iPaaS'
+- slug: stitch
+  name: Stitch
+  description: >-
+    Stitch evolved out of RJMetrics, a widely used business intelligence
+    platform. Data consolidation was always central to the RJMetrics product,
+    and the team repeatedly heard requests from customers looking for ETL as a
+    standalone service. We listened.&nbsp;
+  url: 'https://www.stitchdata.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/stitch_data'
+  blog: 'https://blog.stitchdata.com/'
+  blog_rss: 'https://blog.stitchdata.com/feed'
+  github: 'https://github.com/stitchdata'
   image: ''
-  tags: 'Testing,Testing,Performance'
-- slug: bugbuster
-  name: BugBuster
+  tags: 'Data,Integration,iPaaS'
+- slug: built.io
+  name: Built.io
   description: >-
-    BugBuster provides a full suite of functional testing tools. We make it easy
-    to build functional tests and automate the repetitive manual testing of your
-    site.
-  url: 'http://bugbuster.com/'
+    built.io is a mobile backend and application development platform. By
+    powering the entire backend (servers, cloud infrastructure, database,
+    scaling), and delivering built-in core app functionality, built.io lets
+    developers build apps in record time, and focus their talent on an awesome
+    user experience. Built from the ground up to support the growing enterprise
+    mobility market, built.io is first to release business user tools, a unique
+    feature set among mobile application development platforms.
+  url: 'https://www.built.io/'
   short_url: ''
-  twitter: 'https://twitter.com/BugBuster_Inc'
-  blog: 'http://blog.bugbuster.com/'
-  blog_rss: 'http://blog.bugbuster.com/feed/'
+  twitter: 'https://twitter.com/builtio'
+  blog: 'https://www.built.io/blog/'
+  blog_rss: 'https://www.built.io/blog/feed/'
+  github: 'https://github.com/raweng'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/builtio-logo.png
+  tags: 'BaaS,Mobile,Applications,iPaaS,API LIfeycle'
+- slug: road-rules
+  name: Road Rules
+  description: >-
+    Road Rules enables drivers to create rules that automate their lives in the
+    context of the car. Our app works with both connected cars &amp;
+    non-connected cars.
+  url: 'http://roadrules.co/'
+  short_url: ''
+  twitter: 'https://twitter.com/RoadRulesApp'
+  blog: 'http://roadrules.co/blog/'
+  blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2039_logo.png
-  tags: 'Bug,Detection,Code,Testing'
-- slug: catch-software
-  name: Catch Software
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/road_rules_logo_graphic.png
+  tags: 'Automobiles,Automation,iPaaS'
+- slug: wappwolf
+  name: WAPPWOLF
   description: >-
-    Catch Software makes test management software, execution and integration
-    tools that help QA professionals get more out of their testing effort. Our
-    flagship product, Enterprise Tester, is test management software which was
-    released in early 2009 and is built by QA professionals for QA
-    professionals, Enterprise Tester provides testers with easy management of
-    test plans, execution sets, requirements, and incidents.
-  url: 'http://catchsoftware.com/'
+    Wappwolf is focused on deconstructing the barriers of the Cloud, by
+    connecting your Evernote, Facebook, Flickr, and other web services / apps to
+    Dropbox, allowing users to drag &amp; drop files into a predefined folder on
+    Dropbox and automatically convert and sync to your favorite places.
+  url: 'http://wappwolf.com/dropboxautomator'
   short_url: ''
-  twitter: 'https://twitter.com/catchsoftware'
-  blog: 'http://catchsoftware.com/blogs/'
-  blog_rss: 'http://catchsoftware.com/blogs/feed/'
-  github: 'https://github.com/catch-software'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/catch_logo.gif
-  tags: Testing
-- slug: crossbrowsertesting
-  name: CrossBrowserTesting
-  description: >-
-    Test your website in dozens of browsers and real devices with instant
-    results. Over one thousand combinations of browsers, OSs, and devices. With
-    CrossBrowserTesting.com, you can test your sites on more than 1500 browsers
-    across more than 65 operating systems, including iOS, Android, Windows, Mac
-    and more.
-  url: 'http://crossbrowsertesting.com'
-  short_url: ''
-  twitter: 'https://twitter.com/xbrowsertesting'
-  blog: 'http://crossbrowsertesting.com/blog'
-  blog_rss: 'http://crossbrowsertesting.com/blog/feed'
+  twitter: 'https://twitter.com/wappwolf'
+  blog: 'http://blog.wappwolf.com/'
+  blog_rss: 'http://blog.wappwolf.com/?feed=rss2'
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cbt-logo.png
-  tags: 'Performance,Projects,Testing,Browser Testing'
-- slug: crosscheck-networks
-  name: Crosscheck Networks
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/wappwolf-logo.png
+  tags: 'Automation,Transformation,Interoperability,iPaaS'
+- slug: temboo
+  name: Temboo
   description: >-
-    Crosscheck Networks is the global leader in API Testing, Simulation, and
-    Gateway technologies with product deployments in over 50,000 customer
-    networks worldwide. Comprehensive API testing includes functional
-    automation, performance, compliance and security testing with patented
-    dynamic mutation technology.
-  url: 'http://www.crosschecknet.com/'
+    Temboo&nbsp;has built a Library with 1500+ detail-documented, ready-to-run
+    developer processes called Choreos for 100+ APIs and more. We offer flexible
+    and smart SDKs for first-time to big-time developers (and everyone in
+    between). Build well-crafted, mightier apps in less time. We build
+    efficient, smart shortcuts that you can drag and drop right into your code.
+    More than just code snippets, these ready-to-use processes (so elegant and
+    special that we call them Choreos, like choreography) make API integration
+    easy, taking care of authentication, credential management, updates, and
+    more. Right now, our Library has Choreos for over 100 popular APIs (and
+    counting).
+  url: 'https://www.temboo.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/temboo'
+  blog: 'http://blog.temboo.com/'
+  blog_rss: 'http://blog.temboo.com/rss'
+  github: 'https://github.com/temboo'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Temboo-Logo.png
+  tags: 'Automation,Scripting,iPaaS,Programming,iPaaS,iPaaS,API LIfeycle'
+- slug: we-wired-web
+  name: We Wired Web
+  description: >-
+    We-Wired Web enables users to define automated tasks using over 50 popular
+    web services using APIs that execute periodically.
+  url: 'https://wewiredweb.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/WeWiredWeb'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/We-Wired-Web-Logo.png
+  tags: 'Automation,iPaaS'
+- slug: rules.io
+  name: Rules.io
+  description: >-
+    Overwhelmed with too much data and too many metrics? &nbsp;The rules.io team
+    drills into your data with you, giving you a concrete idea of which users
+    you should talk to and how to engage them.At the core of rules.io is a rules
+    and segmentation engine which captures user-centric data such as usage and
+    behavior, purchases, and technical problems, and allows you to act on this
+    information in real-time or via triggered automation.
+  url: 'http://rules.io'
   short_url: ''
   twitter: ''
-  blog: 'http://soa-testing.blogspot.com/'
-  blog_rss: 'http://feeds.feedburner.com/soatesting?format=xml'
+  blog: ''
+  blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cross-check-networks.png
-  tags: 'Testing,Security,Virtualization,API Gateways'
-- slug: cucumber
-  name: Cucumber
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/rules-io-logo.jpeg
+  tags: 'Automation,Interoperability,Rules,iPaaS'
+- slug: automateit
+  name: AutomateIt
   description: >-
-    Cucumber lets software development teams describe how software should behave
-    in plain text. The text is written in a business-readable domain-specific
-    language and serves as documentation, automated tests and development-aid -
-    all rolled into one format.
-  url: 'https://cucumber.io/'
+    AutomateIt is an open source tool for automating the setup and maintenance
+    of servers, applications and their dependencies, providing a way to manage
+    files, packages, services, networks, accounts, roles, templates and
+    more.&nbsp;
+  url: 'http://automateitapp.com/'
   short_url: ''
-  twitter: ''
-  blog: 'https://cucumber.io/blog'
-  blog_rss: 'https://cucumber.io/feed.xml'
-  github: 'https://github.com/cucumber'
+  twitter: 'https://twitter.com/AutomateItApp'
+  blog: 'http://automateitapp.com/blog/'
+  blog_rss: 'http://automateitapp.com/feed/'
+  github: 'https://github.com/automateit'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Cucumber.png
-  tags: Testing
-- slug: firebase
-  name: Firebase
-  description: >-
-    Firebase is a mobile platform that helps you
-    quickly&nbsp;develop&nbsp;high-quality apps,&nbsp;grow&nbsp;your user base,
-    and&nbsp;earn&nbsp;more money. Firebase is made up of complementary features
-    that you can mix-and-match to fit your needs.
-  url: 'https://firebase.google.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/firebase'
-  blog: 'https://firebase.googleblog.com/'
-  blog_rss: 'http://firebase.googleblog.com/feeds/posts/default?alt=rss'
-  github: 'https://github.com/firebase'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/automateit-logo.png
   tags: >-
-    Real Time,API LIfeycle,Database,Command Line Interface,Links,Google
-    APIs,Security,Testing,Virtualization
-- slug: flood-io
-  name: Flood IO
+    Automation,Interoperability,Open Source,iPaaS,Federal Government,Federal
+    Government,Federal Government,Federal Government
+- slug: zapier
+  name: Zapier
   description: >-
-    Flood enables you to generate load from any AWS region, using your own
-    account or ours to achieve the most realistic traffic scenarios. We collate
-    all the results for you, so you can spend more time testing. We sort out the
-    infrastructure, so you can spend more time testing. We've built a massive
-    distributed shared nothing infrastructure which lets you scale out on
-    demand. You'll enjoy much better economies of scale on Flood than you can on
-    our competitors.
-  url: 'https://flood.io/'
+    Zapier lets SaaS users create integrations that push data between hundreds
+    of best-in-breed web applications without having to write any code or
+    wrangle APIs.
+  url: 'https://zapier.com/'
   short_url: ''
-  twitter: 'https://twitter.com/flood_io'
-  blog: 'https://blog.flood.io/'
-  blog_rss: 'https://blog.flood.io/rss/'
-  github: 'https://github.com/flood-io'
+  twitter: 'https://twitter.com/zapier'
+  blog: 'https://zapier.com/blog/'
+  blog_rss: 'https://zapier.com/engineering/feeds/latest/'
+  github: 'https://github.com/zapier'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flood-io.png
-  tags: 'Testing,Performance'
-- slug: frisby.js
-  name: Frisby.js
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zapier-logo.png
+  tags: 'Automation,Interoperability,iPaaS,Webhooks,Webhooks Service,API LIfeycle'
+- slug: itduzzit
+  name: itDuzzit
   description: >-
-    Frisby is a REST API testing framework built on node.js and Jasmine that
-    makes testing API endpoints easy, fast, and fun. Read below for a quick
-    overview, or check out the API documentation.
-  url: 'http://frisbyjs.com/'
+    itDuzzit is a cloud integration platform like no other; simple enough for
+    non-technical users, yet powerful enough to support the most complex
+    integration.
+  url: 'http://cloud.itduzzit.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/itDuzzit'
+  blog: 'http://www.itduzzit.com/home/blog/'
+  blog_rss: 'http://feeds.feedburner.com/itduzzit'
+  github: 'https://github.com/itduzzit'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/itduzzit-logo.png
+  tags: 'Automation,Interoperability,iPaaS,Chicago'
+- slug: cloudwork
+  name: CloudWork
+  description: >-
+    Cloudwork is a service that allows users to automate tasks between Google
+    Apps, Salesforce, Evernote, Zoho, Twitter, Freshbooks, MailChimp, Zendesk,
+    Dropbox, WordPress and others.
+  url: 'https://cloudwork.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/cloudwork'
+  blog: 'http://blog.cloudwork.com/'
+  blog_rss: 'http://blog.cloudwork.com/feed/'
+  github: 'https://github.com/cloudwork'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/cloudwork-logo.png
+  tags: 'Automation,Interoperability,iPaaS,API LIfeycle'
+- slug: cloveretl
+  name: CloverETL
+  description: >-
+    CloverETL is open source data integration platform based on Java. It can be
+    used for data migration, data cleansing and other data transformation tasks.
+  url: 'http://www.cloveretl.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/CloverETL'
+  blog: 'http://www.cloveretl.com/blog/'
+  blog_rss: 'http://www.cloveretl.com/blog/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/cloveretl-logo.png
+  tags: 'Automation,Interoperability,iPaaS'
+- slug: elastic.io
+  name: elastic.io
+  description: >-
+    elastic.io helps you to automate routine operations and connect multiple
+    cloud APIs.
+  url: 'http://www.elastic.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/elasticio'
+  blog: 'http://www.elastic.io/blog'
+  blog_rss: ''
+  github: 'https://github.com/elasticio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/elasticio_logo.png
+  tags: 'Automation,Interoperability,iPaaS'
+- slug: pentaho
+  name: Pentaho
+  description: >-
+    Delivers powerful Extraction, Transformation and Loading (ETL) capabilities
+    using an innovative, metadata-driven approach. With an intuitive, graphical,
+    drag and drop design environment, and a proven, scalable, standards-based
+    architecture, Pentaho Data Integration is increasingly the choice for
+    organizations over traditional, proprietary ETL or data integration tools.
+  url: ''
+  short_url: ''
+  twitter: 'https://twitter.com/seeclickfix'
+  blog: 'http://blog.pentaho.com/'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/pentaho-logo.png
+  tags: 'Automation,Interoperability,iPaaS'
+- slug: ritc
+  name: RITC
+  description: >-
+    Easily integrate &amp; automate cloud products and services, build apps, and
+    create workflows using the Ritc API, allowing you&nbsp;to add functionality
+    to your cloud applications and services.
+  url: ''
+  short_url: ''
+  twitter: 'https://twitter.com/tflofficial'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Ritc-logo.png
+  tags: 'Automation,Interoperability,iPaaS'
+- slug: snaplogic
+  name: SnapLogic
+  description: >-
+    SnapLogic's modern web architecture, containerized Snaps, and thriving
+    SnapStore ecosystem make it the only practical way to continually connect
+    your company to the burgeoning number and diversity of data sources and
+    cloud applications.&nbsp;
+  url: 'http://www.snaplogic.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/snaplogic'
+  blog: 'http://www.snaplogic.com/blog'
+  blog_rss: ''
+  github: 'https://github.com/SnapLogic'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/snaplogic-logo.png
+  tags: 'Automation,Interoperability,iPaaS'
+- slug: talend
+  name: Talend
+  description: >-
+    Talend offers open source middleware solutions that address big data
+    integration, data management and application integration needs for
+    businesses of all sizes.
+  url: 'http://www.talend.com'
+  short_url: ''
+  twitter: 'https://twitter.com/talend'
+  blog: 'http://www.talend.com/blog'
+  blog_rss: 'http://feeds.feedburner.com/Talend'
+  github: 'https://github.com/Talend'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/talend-logo.png
+  tags: 'Automation,Interoperability,iPaaS'
+- slug: systemizer
+  name: Systemizer
+  description: >-
+    Systemizer allows you to automate your online workflow by chaining all sorts
+    of web-based events, actions and user interactions together. All of
+    Systemizer's functionality is available via an extensive REST API. All you
+    need is an API key (see the Create Account call for details) and an
+    environment with which to make HTTP requests such as Fiddler (Windows) or
+    cURL (Command line, all platforms). Typically however, you'll want to use
+    the Systemizer user interface (unreleased as yet) or your own application
+    code which will make calls to the Systemizer API according to the needs of
+    your application.
+  url: 'http://systemizer.net/api'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frisby-js.png
-  tags: Testing
-- slug: google-stackdriver
-  name: Google Stackdriver
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/systemizer-logo.png
+  tags: 'Automation,BROWSER,iPaaS'
+- slug: bipio
+  name: bipio
   description: >-
-    Google Stackdriver provides powerful monitoring, logging, and diagnostics.
-    It equips you with insight into the health, performance, and availability of
-    cloud-powered applications, enabling you to find and fix issues faster. It
-    is natively integrated with Google Cloud Platform, Amazon Web Services, and
-    popular open source packages. Stackdriver provides a wide variety of
-    metrics, dashboards, alerting, log management, reporting, and tracing
-    capabilities.
-  url: 'https://cloud.google.com/stackdriver/'
+    Bipio is an API for pipelining content feeds across many popular web
+    services and exposing them through public or private endpoints. This
+    documentation addresses some key concepts in getting you on your way to
+    creating meaningful content transformations with Bipio, including how to
+    plug its components into your own application.&nbsp;
+  url: 'https://bip.io/docs'
+  short_url: ''
+  twitter: 'https://twitter.com/bipioapp'
+  blog: 'http://blog.bip.io/'
+  blog_rss: 'http://blog.bip.io/rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bip_badge.png
+  tags: 'Application,Social,Aggregation,Interoperability,Automation,iPaaS'
+- slug: aws-step-functions
+  name: AWS Step Functions
+  description: >-
+    AWS Step Functions makes it easy to coordinate the components of distributed
+    applications and microservices using visual workflows. Building applications
+    from individual components that each perform a discrete function lets you
+    scale and change applications quickly. Step Functions is a reliable way to
+    coordinate components and step through the functions of your application.
+    Step Functions provides a graphical console to arrange and visualize the
+    components of your application as a series of steps. This makes it simple to
+    build and run multi-step applications. Step Functions automatically triggers
+    and tracks each step, and retries when there are errors, so your application
+    executes in order and as expected. Step Functions logs the state of each
+    step, so when things do go wrong, you can diagnose and debug problems
+    quickly. You can change and add steps without even writing code, so you can
+    easily evolve your application and innovate faster.  AWS Step Functions
+    manages the operations and underlying infrastructure for you to help ensure
+    your application is available at any scale.
+  url: 'https://aws.amazon.com/step-functions/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-stackdriver-debugger.png
-  tags: 'Monitoring,Testing,Debugging,Google APIs,Logging'
-- slug: gtmetrix
-  name: GTmetrix
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-step-functions.png
+  tags: 'Amazon Web Services,Automation,Orchestration,iPaaS,Etl'
+- slug: jolicloud
+  name: Jolicloud
   description: >-
-    GTmetrix can help you develop a faster, more efficient, and all-around
-    improved website experience for your users.  Studies show that users leave a
-    site if it hasn&#8217;t loaded in 4 seconds; keep your users happy and
-    engaged by providing a fast performing website!  GTmetrix uses Google Page
-    Speed and Yahoo! YSlow to grade your site&#8217;s performance and provides
-    actionable recommendations to fix these issues.  GTmetrix provides: full
-    video capture of how your site loads from multiple regions around the world,
-    performance monitoring and alerts for when your site dips below a given
-    threshold, easy to use API for integration with other sites, and much more!
-  url: 'http://gtmetrix.com'
+    Jolidrive is your personal space in the cloud. Jolidrive unifies all your
+    content from multiple services in one simple and beautiful interface
+    accessible from anywhere. Jolicloud is the most innovative platform to
+    access our life online, from computers to mobile.
+  url: 'http://www.jolicloud.com/'
   short_url: ''
-  twitter: 'https://twitter.com/gtmetrix'
-  blog: ''
-  blog_rss: 'http://gtmetrix.com/news.xml'
+  twitter: 'https://twitter.com/jolicloud'
+  blog: 'http://www.jolicloud.com/blog/'
+  blog_rss: 'http://www.jolicloud.com/blog/feed/'
+  github: 'https://github.com/jolicloud'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/jolicloud-logo.png
+  tags: 'Aggregation,Interoperability,iPaaS'
+- slug: otixo
+  name: Otixo
+  description: >-
+    Manage all your clouds from one login with Otixo. Connect services like
+    Dropbox, Box, SkyDrive, Google Docs, SugarSync, Picasa, CX, Amazon S3, FTP
+    sites and WebDav drives...all from one simple app.
+  url: 'http://otixo.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/otixo'
+  blog: 'http://blog.otixo.com/'
+  blog_rss: 'http://blog.otixo.com/feed/'
+  github: 'https://github.com/otixo-hudson'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/otixo-logo.png
+  tags: 'Aggregation,Interoperability,iPaaS'
+- slug: unifyle
+  name: Unifyle
+  description: >-
+    Primadesk brings order to online life, enabling users to search, manage and
+    backup personal data from anywhere, whether it is from a personal computer,
+    tablet or smartphone. Primadesk was founded in 2009 by two entrepreneurs who
+    recognized the growing need for making Internet-based applications and
+    online information unified across applications seamlessly.&nbsp;
+  url: 'https://www.primadesk.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/primadesk'
+  blog: 'http://primadesk.wordpress.com/'
+  blog_rss: 'http://primadesk.wordpress.com/feed/'
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/806_logo.png
-  tags: Performance Testing
-- slug: load-impact
-  name: Load Impact
-  description: >-
-    Load Impact is an online load testing service for websites, web apps, mobile
-    apps and APIs. The service allows users to run load tests over the Internet,
-    rather than having to set up their own load testing infrastructure to run
-    tests. Tests are easily repeatable, with minimum preparation required, which
-    also makes the service a good development/optimization tool.
-  url: 'https://loadimpact.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/loadimpact'
-  blog: 'http://blog.loadimpact.com/'
-  blog_rss: 'http://blog.loadimpact.com/rss.xml'
-  github: 'https://github.com/loadimpact'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/load-impact-logo.png
-  tags: 'Testing,Performance'
-- slug: loader.io
-  name: Loader.io
-  description: >-
-    Loader.io is a free load testing service that allows you to stress test your
-    web-apps/apis with thousands of concurrent connections. We were born out of
-    SendGrid Labs which is a new and growing internal effort at SendGrid. Born
-    in late 2012, SendGrid Labs builds tools and services to help developers
-    focus on their core business. We aim to provide creative and innovative
-    solutions to common developer pain points, to make their lives easier, and
-    to help them scale.
-  url: 'https://loader.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/loaderio'
-  blog: 'http://blog.loader.io/'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png
-  tags: 'Testing,Performance'
-- slug: loadfocus
-  name: LoadFocus
-  description: >-
-    Load test with thousands of concurrent users. Monitor website uptime and
-    perfomance. Measure website speed and get insights. Run load tests in the
-    Cloud and stress your API with up to 50,000 concurrent users. Inspect
-    results to optimise and improve performance.
-  url: 'https://loadfocus.com/'
-  short_url: ''
-  twitter: ''
-  blog: 'http://loadfocus.com/blog/'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png
-  tags: 'Performance,Testing'
-- slug: parasoft
-  name: Parasoft
-  description: >-
-    Parasoft researches and develops software solutions that help organizations
-    deliver defect-free software efficiently. By integrating&nbsp;development
-    testing,&nbsp;API testing, and&nbsp;service virtualization, we reduce the
-    time, effort, and cost of delivering secure, reliable, and compliant
-    software. Parasoft's enterprise and embedded development solutions are the
-    industry's most comprehensive&mdash;including static analysis, unit testing,
-    requirements traceability, coverage analysis, functional and load testing,
-    dev/test environment management, and more.
-  url: 'http://www.parasoft.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/Parasoft'
-  blog: 'http://blog.parasoft.com/'
-  blog_rss: 'http://www.parasoft.com/rss/'
-  github: 'https://github.com/parasoft'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/parasoft-logo.png
-  tags: 'Testing,Virtualization'
-- slug: postman
-  name: Postman
-  description: >-
-    Postman on Chrome is the most efficient way to test, develop and document
-    APIs. Create complex requests, go back in time and view results in a
-    beautiful way. Postman has more than 80 features to help you at every
-    step.&nbsp;Our user base is growing rapidly and with more tools in the
-    pipeline, Postman aims to provide the most comprehensive API development and
-    testing solution to developers.
-  url: 'http://www.getpostman.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/postmanclient'
-  blog: 'http://blog.getpostman.com/'
-  blog_rss: 'http://blog.getpostman.com/index.php/feed/'
-  github: 'https://github.com/postmanlabs'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png
-  tags: 'Clients, Testing, Definitions'
-- slug: rest-united
-  name: REST United
-  description: >-
-    Our mission is to help REST API providers easily create SDKs in different
-    programming languages with easy-to-follow documentation and code samples
-    while software developers can effortlessly consume the REST API by following
-    the SDK installation instruction and using the code samples within minutes.
-  url: 'http://restunited.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/restunited'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png
-  tags: 'Documentation,SDK,Testing,Debugging,API Management SDK'
-- slug: restcase
-  name: RestCase
-  description: >-
-    RestCase focuses on the REST API development cycle and enhances team
-    collaboration, reduces development time, improves testing and increases
-    overall product quality.
-  url: 'http://www.restcase.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/RestCaseApi'
-  blog: 'http://blog.restcase.com/'
-  blog_rss: 'http://blog.restcase.com/rss/'
-  github: 'https://github.com/restcase'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restcase_logo.png
-  tags: 'Virtualization,Testing'
-- slug: restlet-dhc
-  name: Restlet DHC
-  description: >-
-    Call APIs to discover and validate their behavior, build and run complete
-    test scenarios.&nbsp;Trying out an API to check its behavior usually
-    involves writing a program or sending command line instructions to call the
-    API
-  url: 'https://restlet.com/products/dhc/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restlet-dhc-logo.jpg
-  tags: 'Clients,Testing'
-- slug: rightapi
-  name: RightAPI
-  description: >-
-    TheRightAPI is enabling the API community by providing solutions to make
-    working with APIs easier. If you need to discover, trust, monitor and manage
-    APIs, TheRightAPI is here to help. TheRightAPI provides the platform and
-    intelligence developers need to establish and maintain successful next
-    generation applications.
-  url: 'http://www.therightapi.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/rightapi'
-  blog: 'http://blog.therightapi.com'
-  blog_rss: 'http://feeds.feedburner.com/rtur'
-  github: 'https://github.com/theRightAPI'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/therightapi-logo-2.png
-  tags: Testing
-- slug: runscope
-  name: Runscope
-  description: >-
-    Runscope was started with the idea that depending on a web service API in a
-    mobile or web application should be as easy as depending on code running
-    locally. We&rsquo;ve assembled a team of API, infrastructure and developer
-    experience experts to build tools to support the modern application
-    development lifecycle.
-  url: 'https://www.runscope.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/Runscope'
-  blog: 'http://blog.runscope.com/'
-  blog_rss: 'http://blog.runscope.com/posts?format=rss'
-  github: 'https://github.com/Runscope'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
-  tags: 'My API Stack,Monitoring,Testing,Monitoring,Testing,API LIfeycle'
-- slug: smartbear-software
-  name: SmartBear Software
-  description: >-
-    SmartBear Software provides tools for over 100,000 software professionals to
-    build, test, and monitor some of the best software applications and websites
-    anywhere on the desktop, mobile and in the cloud.
-  url: 'http://smartbear.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/smartbear'
-  blog: 'http://blog.smartbear.com/'
-  blog_rss: 'http://feeds.feedburner.com/smartbear'
-  github: 'https://github.com/SmartBear'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/SmartBear-Logo.png
-  tags: 'Security,Testing,Monitoring,Virtualization,Performance,API LIfeycle'
-- slug: stoplight
-  name: StopLight
-  description: >-
-    StopLight provides engineering teams with a new way to document, test, and
-    build web APIs. Our technology easily and automatically maps an API, and
-    then provides tooling and services to reduce development time, and increase
-    reliability and accessibility.
-  url: 'http://stoplight.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/stoplightio'
-  blog: 'http://blog.stoplight.io/'
-  blog_rss: 'http://blog.stoplight.io/rss/'
-  github: 'https://github.com/stoplightio'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png
-  tags: 'Testing,Clients,API LIfeycle,Proxy,Design,Studio'
-- slug: vrest
-  name: vREST
-  description: 'Simplify, Automate and Speed-up REST API Testing'
-  url: 'http://vrest.io/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/vrsest-logo.png
-  tags: 'Testing,Virtualization'
-- slug: webpagetest
-  name: WebPagetest
-  description: >-
-    WebPagetest is used for measuring and analyzing the performance of web
-    pages.  There are a lot of options that may seem intimidating at first but
-    doing quick testing is pretty simple.  This guide will walk you through
-    submitting a test and interpreting the results.
-  url: >-
-    https://sites.google.com/a/webpagetest.org/docs/advanced-features/webpagetest-restful-apis
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    https://s3.amazonaws.com/kinlane-productions/webpagetest/webpagetest-logo.png
-  tags: 'Websites,Performance Testing'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/primadesk-logo.png
+  tags: 'Aggregation,Interoperability,iPaaS'
