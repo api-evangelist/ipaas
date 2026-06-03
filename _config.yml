@@ -1,0 +1,17 @@
+title: iPaaS
+description: This is the index of iPaaS (integration platform as a service) repos
+  being tracked by the API Evangelist network.
+url: https://ipaas.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
