@@ -24,8 +24,8 @@ related:
   icon: https://workflow-automation.apievangelist.com/icon.png
   description: This is the index of workflow automation service and tooling repos being tracked by the
     API Evangelist network.
-- name: Pro-Code API Composition
-  url: https://pro-code-api-composition.apievangelist.com
-  icon: https://pro-code-api-composition.apievangelist.com/icon.png
-  description: An index of pro-code API composition service and tooling repos being tracked by the API
-    Evangelist network, covering workflow engines, code-first platforms, serverless…
+- name: AI Automation
+  url: https://ai-automation.apievangelist.com
+  icon: https://ai-automation.apievangelist.com/icon.png
+  description: AI automation combines artificial intelligence with workflow and process automation to
+    create intelligent, autonomous systems including AI agent frameworks, autonomous coding…
