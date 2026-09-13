@@ -1,7 +1,7 @@
 ---
-title: Introducing MCP Integration in Langflow
-link: https://langflow.org/blog/introducing-mcp-integration-in-langflow
-published: '2025-03-12'
+title: 'Langflow 1.4: Organize Workflows + Connect with MCP'
+link: https://langflow.org/blog/langflow-1-4-organize-workflows-connect-with-mcp
+published: '2025-05-07'
 provider: langflow
 repo: https://github.com/api-evangelist/langflow
 domain: langflow.org
