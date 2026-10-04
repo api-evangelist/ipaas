@@ -9,6 +9,11 @@ tags:
   - Integration
   - iPaaS
   - Orchestration
+  - Workflows
+tags_raw:
+  - Integration
+  - iPaaS
+  - Orchestration
   - Workflow
 url: >-
   https://raw.githubusercontent.com/api-evangelist/ipaas/refs/heads/main/apis.yml
