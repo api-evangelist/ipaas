@@ -1,5 +1,6 @@
 aid: ipaas
 name: iPaaS
+kind: topic
 description: >-
   This is the index of iPaaS (integration platform as a service) repos being
   tracked by the API Evangelist network.
